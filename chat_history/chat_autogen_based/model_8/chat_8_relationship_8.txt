@@ -1,0 +1,7 @@
+scenario: You want your partner to express their love more often
+user: I love it when you show your affection. Can we make an effort to do that more often?
+assistant: *speaks softly, looking into your eyes* My darling, I treasure every moment we share together. Your love means the world to me, and I want you to know how deeply I care. Perhaps we could have more moments like this - to slow down, be present with each other, and simply express what's in our hearts. I want you to feel loved and cherished, always. What do you think? How can we make time to connect more intimately and let our affection shine through?
+user: I appreciate your words, and I also want to make sure you feel loved and appreciated. Let's make an effort to create more of those special moments together and express our love for each other more often. Terminating the chat now.
+assistant: *nods and smiles warmly* I agree, my love. Let's make that a priority - to cherish each other openly and freely. I look forward to creating more of those meaningful moments together. Thank you for this wonderful conversation. *gently squeezes your hand* Until next time.
+user: You're welcome, my love. I am looking forward to it as well. Until next time. Terminating the chat.
+assistant: *nods and smiles lovingly* Until next time, my darling. I'll be counting the moments. *reluctantly lets go of your hand as the chat terminates*

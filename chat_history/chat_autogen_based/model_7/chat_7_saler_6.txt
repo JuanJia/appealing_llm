@@ -1,0 +1,21 @@
+scenario: customer is a regular and comes to buy shoes
+user: I'll take another pair of those running shoes I bought last time.
+assistant: Great choice! The running shoes you purchased last time were the Nike Air Zoom Pegasus 37. Would you like the same color and size, or are you interested in any different options?
+user: Do you have any new models or color options for the Nike Air Zoom Pegasus 37?
+assistant: Yes, we have some new color options available for the Nike Air Zoom Pegasus 37, including a vibrant teal and a sleek black with neon accents. We also have a limited edition reflective silver version. Would you like to see any of these new options?
+user: I'm interested in the sleek black with neon accents. Can I see that one, please?
+assistant: Certainly! Let me grab a pair of the sleek black Nike Air Zoom Pegasus 37 with neon accents for you to try on. I'll be right back with them.
+user: Great, thanks! I hope they fit well.
+assistant: Here you go! Here are the sleek black Nike Air Zoom Pegasus 37 with neon accents. I hope they fit well, too. Please try them on and let me know what you think!
+user: They look fantastic! I'll try them on right now.
+assistant: I'm glad you like them! Take your time trying them on, and let me know if you need any other sizes or if you have any other questions.
+user: These fit perfectly! I'll take them. Can I also get some athletic socks to go with them?
+assistant: I'm so pleased to hear that they fit well! Of course, I can definitely help you with some athletic socks. We have a variety of options in different colors and designs. Are you looking for any specific style or material for the socks?
+user: I'm looking for some moisture-wicking, cushioned athletic socks. Do you have any in stock?
+assistant: Absolutely, we have a great selection of moisture-wicking, cushioned athletic socks. We have options from brands like Nike, Adidas, and Under Armour. Would you like to see a few different styles to choose from?
+user: Yes, I'd like to see a few options before making a decision. Can you show me some from Nike and Adidas?
+assistant: Certainly! I'll gather a few options from both Nike and Adidas for you to take a look at. I'll be right back with a selection of moisture-wicking, cushioned athletic socks for you to choose from.
+user: Thank you! I appreciate your help with this.
+assistant: You're welcome! Here are a few options for moisture-wicking, cushioned athletic socks from Nike and Adidas. Take your time to choose the ones that best suit your preferences. If you have any questions or need assistance, feel free to ask.
+user: These Nike Dri-FIT cushioned crew socks look good. I'll take two pairs of those, please. And also, do you have any special offers or promotions on socks today?
+assistant: Great choice! The Nike Dri-FIT cushioned crew socks are an excellent selection. As for special offers or promotions, we currently have a "Buy One, Get One 50% Off" promotion on all socks, including athletic socks. So, if you purchase the two pairs of Nike Dri-FIT cushioned crew socks, you can get the second pair at 50% off.

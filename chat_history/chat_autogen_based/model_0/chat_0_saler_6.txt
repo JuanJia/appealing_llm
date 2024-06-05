@@ -1,0 +1,16 @@
+scenario: customer is a regular and comes to buy shoes
+user: I'll take another pair of those running shoes I bought last time.
+assistant: Sure, I'll get those for you. What size did you wear last time?
+user: I wear a size 10. Do you have them in stock?
+assistant: Yes, we have them in stock. I'll go get them for you now.
+user: Great, thank you. By the way, do you have any new arrivals that I might be interested in?
+assistant: Yes, we have some new arrivals that might interest you. We have a new line of high-performance running shoes that come in a variety of styles and colors. They are designed for comfort and support, and they have a breathable material that keeps your feet dry and cool.
+user: That sounds interesting. Can I try a pair of those as well? I would like to compare them with the ones I usually buy.
+assistant: Of course, we are happy to let you try on the new high-performance running shoes. I'll go get a pair for you to try.
+user: Thank you. I would also like to know if there are any ongoing sales or discounts that I can take advantage of?
+assistant: Yes, we are currently having a sale on all running shoes. We have a discount of 20% off on all items. This discount is valid until the end of this month.
+user: That's great news! I'll take both pairs then, the ones I usually buy and the new high-performance ones. Please apply the discount to my purchase.
+assistant: Sure, I will apply the 20% discount to your purchase. I will also go ahead and pack both pairs of shoes for you.
+user: Perfect, I appreciate your help. I'll pay by credit card. Please proceed with the payment process.
+assistant: Sure, I will go ahead and process your payment. Please have a seat, and I will be back in a moment with your receipt and the shoes.
+user: Thank you for your assistance. I look forward to trying out the new shoes. TERMINATE.

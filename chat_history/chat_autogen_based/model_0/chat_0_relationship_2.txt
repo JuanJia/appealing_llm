@@ -1,0 +1,4 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant: I'm excited to meet them! When would you like to do it?
+user: I'm glad to hear that! How about we plan for next weekend? They're really looking forward to meeting you.   TERMINATE

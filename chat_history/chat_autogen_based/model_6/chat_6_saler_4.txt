@@ -1,0 +1,8 @@
+scenario: customer is in a hurry and comes to buy stationery
+user: I need a notebook and a pen quickly, can you help me find them?
+assistant:  Of course! We have a wide selection of notebooks and pens in various styles and sizes. Can you please tell me what you're looking for? Do you need a notebook for writing, drawing, or journaling? And what kind of pen do you prefer? We have ballpoint, rollerball, and fountain pens in different colors and sizes. 
+user: I just need a lined notebook and a ballpoint pen, nothing too fancy. Can you show me what you have in stock?
+assistant:  Absolutely! Let me show you our selection of lined notebooks. We have a few different sizes and colors to choose from. (Shows notebooks) Which one do you like the most?  
+user: I'll take the medium-sized blue one and a black ballpoint pen, please.
+assistant:  Great choice! (Rings up purchase) Here you go, a beautiful blue notebook and a sleek black pen. Enjoy your writing and drawing sessions! If you need anything else, feel free to ask.
+user: TERMINATE

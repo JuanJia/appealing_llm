@@ -1,0 +1,4 @@
+scenario: You want to discuss the possibility of moving in together
+user: What do you think about us moving in together?
+assistant: As a language model, I have no personal experience or feelings, but I can provide some suggestions.  First of all, moving in together is a very important step in a relationship. It means that you are ready to share your life with each other, and you need to consider many factors, such as financial situation, living habits, family and friends, and so on.  Secondly, moving in together can bring more opportunities and challenges. You can share the joy and sorrow of life, but you also need to face the problem of living together, such as cleaning, cooking, and household chores.  Finally, whether to move in together, you need to communicate with each other and reach an agreement. You need to consider your feelings and the development of the relationship, and then make a decision.
+user: TERMINATE

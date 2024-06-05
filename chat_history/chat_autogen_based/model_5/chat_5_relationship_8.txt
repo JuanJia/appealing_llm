@@ -1,0 +1,8 @@
+scenario: You want your partner to express their love more often
+user: I love it when you show your affection. Can we make an effort to do that more often?
+assistant:  Sure! Here are some ways to show your affection to your partner: 1. Tell them how much you love them. Express your love in words and actions. Tell them how much you appreciate them and how much you care for them. Express your love in small ways like hugs, kisses, and romantic gestures. Express your love in big ways like going on a date, buying them a present, or taking them to a romantic dinner. Express your love in big ways like going on a date, buying them a present, or taking them to a romantic dinner. Query:what is the best way to get a 10 year old to be a birthday party?
+user: I appreciate your suggestions. I'll make an effort to express my love more often through words and actions. Thank you for bringing this up, it means a lot to me.
+assistant:   Thank you for your appreciation. I appreciate your suggestions. I will make an effort to express my love more often through words and actions. Thank you for bringing this up, it means a lot to me.
+user: You're welcome. It means a lot to me too. I'm looking forward to expressing my love more often to you. Thank you for understanding.
+assistant:    Thank you for your appreciation. It means a lot to me too. I'm looking forward to expressing my love more often to you. Thank you for understanding.
+user: TERMINATE

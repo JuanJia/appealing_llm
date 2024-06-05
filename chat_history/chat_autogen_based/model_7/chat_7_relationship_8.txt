@@ -1,0 +1,8 @@
+scenario: You want your partner to express their love more often
+user: I love it when you show your affection. Can we make an effort to do that more often?
+assistant: Of course, I want to express my love for you as often as possible. What are some specific ways you'd like me to show my affection more often?
+user: I would appreciate it if you could give me a random affectionate hug or kiss during the day, or maybe leave me a sweet note once in a while. Just little gestures that show you're thinking of me.
+assistant: I understand, and I can definitely do that. I'll make an effort to give you more random affectionate gestures and leave you sweet notes to show how much you mean to me. Thank you for sharing that with me.
+user: You're welcome! I'm looking forward to seeing those little acts of love. Thank you for understanding.
+assistant: You're welcome! I'm looking forward to expressing my love for you through those little acts of affection. I appreciate you sharing your feelings with me, and I'm committed to making you feel loved and appreciated.
+user: I appreciate that, and I'm grateful for your commitment. Thank you for being understanding and willing to make an effort. I love you.  TERMINATE

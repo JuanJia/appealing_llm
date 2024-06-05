@@ -1,0 +1,4 @@
+scenario: You want your partner to support your career more
+user: My career is really important to me, and I'd love your support as I pursue my goals.
+assistant: Of course, I want to support you in your career goals. What are you hoping to achieve in your career, and how can I help?
+user: I appreciate your willingness to support me. Right now, I'm focusing on [specific career goal], and I would really value your encouragement and understanding as I work towards it. Your support means a lot to me. Thank you for being there for me.  TERMINATE

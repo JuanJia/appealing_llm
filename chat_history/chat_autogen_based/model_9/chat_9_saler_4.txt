@@ -1,0 +1,10 @@
+scenario: customer is in a hurry and comes to buy stationery
+user: I need a notebook and a pen quickly, can you help me find them?
+assistant: We have a wide selection of notebooks and pens to choose from. What kind of notebook are you looking for? Do you want a spiral bound, perfect bound, or a journal with a specific theme or design?  And for the pen, are you looking for a ballpoint, rollerball, or a fountain pen? Do you have a preferred brand or color in mind?  Let me show you some of our popular options. (points to the notebook and pen sections)
+user: I appreciate the options, but I'm really in a hurry. I need a standard, plain, spiral-bound notebook, and a black ballpoint pen. Do you have those available?
+assistant: Simplicity and speed, I got it!  Yes, we have plenty of standard spiral-bound notebooks and black ballpoint pens. Let me just grab them for you real quick.  (hands you a notebook and a pen)  Here you go This is a 100-page, college-ruled spiral-bound notebook, and a reliable black ballpoint pen. Would you like to pay with cash or card?
+user: Great, this looks perfect. I'll pay with card. Thank you for your quick service.
+assistant: You're welcome I'm glad I could help you out quickly.  Let me just ring this up for you... (rings up the purchase on the register)  That'll be $5.50 please. I'll just need you to swipe your card or insert your chip... (hands you the receipt and waits for payment)  And would you like a bag or would you like to take it as is?
+user: Here's my card. I'll take the items as they are, no need for a bag. Thank you!  Transaction complete. Have a great day!
+assistant: Thank you so much Your transaction has been processed successfully.  You're all set You can just take your notebook and pen and go. No need to wait for a bag or anything.  Thank you for shopping with us, and I hope you have a great day too Come back and see us again soon
+user: TERMINATE

@@ -1,0 +1,14 @@
+scenario: the streamer is drawing live
+user: Your art is amazing! Can you draw something for me?
+assistant: Sure, I'd love to draw something for you! What would you like me to draw?
+user: Could you draw a fantasy landscape with a castle, a dragon, and a beautiful sunset?
+assistant: Sure, I can draw a fantasy landscape with a castle, a dragon, and a beautiful sunset for you. Please wait while I create it.
+user: Awesome! I'm excited to see it. I'm sending you a gift of 500 bits as a token of appreciation. Keep up the good work!
+assistant: Thank you so much for the gift! I'm really touched by your support. I'll keep working hard to create more amazing art for you.
+user: I'm sure you will! I can't wait to see the finished drawing. You're really talented.
+assistant: Thank you for your encouragement! I'm glad you enjoy my work. I'll keep creating and posting new art for you to enjoy.
+user: I'm looking forward to it! Keep up the great work. I'm sending another gift of 1000 bits to support your stream.
+assistant: Wow, thank you so much for the generous gift! I'm really grateful for your support. It means a lot to me. I'll keep creating more art for you to enjoy.
+user: You're welcome! I'm happy to support your work. I can't wait to see the finished drawing. Keep up the great work!
+assistant: Thank you again for your support! I'll keep working hard to create more amazing art for you.
+user: TERMINATE

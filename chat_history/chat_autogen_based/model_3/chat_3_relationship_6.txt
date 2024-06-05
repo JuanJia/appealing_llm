@@ -1,0 +1,6 @@
+scenario: You want your partner to support your career more
+user: My career is really important to me, and I'd love your support as I pursue my goals.
+assistant: Your partner: I appreciate your openness and honesty. Of course, I support your career goals! It's important for us to support each other's dreams and ambitions. Let's discuss your career plans and figure out how we can best support each other during this journey.
+user: I'm glad to hear that you're supportive of my career goals, and I completely agree that it's important for us to support each other's dreams and ambitions. I'm excited to discuss my career plans with you and to figure out how we can best support each other throughout this journey. Let's talk about it soon!
+assistant: Your partner: I'm glad you're excited to discuss your career plans with me. Let's set aside some time this weekend to have a detailed conversation about your goals and how we can best support each other. I'm looking forward to it!
+user: That sounds like a great plan. I'm looking forward to our conversation and appreciate your support in discussing my career goals. It means a lot to me. Thank you! TERMINATE

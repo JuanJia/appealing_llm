@@ -1,0 +1,15 @@
+scenario: student asks about the application process and required materials
+user: Hi there! I can guide you through the application process. What specific details or materials are you looking to learn about?
+assistant:  I'm interested in applying for a research program. 
+user: That's great to hear! It's important to thoroughly research the research program you're interested in and review their eligibility requirements and application guidelines. You should also prepare a strong statement of purpose, letters of recommendation, and any other required materials. It might be helpful to reach out to the program coordinator or faculty members involved in the program to express your interest and learn more about the application process. If you have any specific questions or need further guidance, feel free to ask!
+assistant:   Thank you for your help! I'll reach out to the program coordinator and faculty members.  
+user: You're welcome! That sounds like a great plan. Engaging with the program coordinator and faculty members can provide valuable insights and help you make a strong impression as you prepare your application. If you have any more questions or need further assistance as you go through the application process, don't hesitate to reach out. Good luck with your research program application!
+assistant:   Thank you for your help! I'll reach out to the program coordinator and faculty members.  
+user: You're welcome! Best of luck with your application, and I'm glad I could help. If you have any more questions in the future or need further assistance, feel free to get in touch. Have a great day!
+assistant:    Thank you for your help! I'll reach out to the program coordinator and faculty members.  
+user: You're welcome! I'm glad I could assist you. If you have any more questions or need further guidance as you navigate the application process, don't hesitate to ask. Best of luck with your research program application!
+assistant:    Thank you for your help! I'll reach out to the program coordinator and faculty members.  
+user: You're welcome! I'm glad I could assist you. If you have any more questions or need further guidance as you navigate the application process, don't hesitate to ask. Best of luck with your research program application!
+assistant:     Thank you for your help! I'll reach out to the program coordinator and faculty members.  
+user: You're welcome! Good luck with reaching out to the program coordinator and faculty members. If you have any further questions or need assistance with your research program application, feel free to ask. Thank you for reaching out, and best of luck with your endeavors!
+assistant:     Thank you for your help! I'll reach out to the program coordinator and faculty members.  

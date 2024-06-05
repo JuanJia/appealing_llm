@@ -1,0 +1,7 @@
+scenario: student asks about research funding opportunities
+user: Hi there! I can certainly discuss funding opportunities. Are you looking for information on specific grants or general funding availability?
+assistant:  Hello professor
+user: Hello! How can I assist you today?
+assistant:   Hello professor
+user: Hello! How can I help you today?
+assistant:   TERMINATE

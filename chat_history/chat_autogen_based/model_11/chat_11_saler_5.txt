@@ -1,0 +1,8 @@
+scenario: customer is interested in healthy foods and comes to buy groceries
+user: Do you have any organic fruits and vegetables?
+assistant: Yes, we do have a variety of organic fruits and vegetables. Here’s what we currently have in stock:  ### Organic Fruits: - Apples - Bananas - Oranges - Strawberries - Blueberries - Grapes  ### Organic Vegetables: - Carrots - Broccoli - Spinach - Kale - Tomatoes - Bell Peppers  Would you like to add any of these to your order? If you have any specific requests or need quantities, just let me know!
+user: Do you have any gluten-free bread or other gluten-free products?
+assistant: Yes, we have a selection of gluten-free products including bread. Here’s what we have available in the gluten-free category:  ### Gluten-Free Bread: - White sandwich bread - Multigrain bread - Seed loaf - Baguettes  ### Other Gluten-Free Products: - Pasta (various shapes) - Cereals (including oat-based and rice-based options) - Snack bars - Crackers - Baking mixes (like pancake mix and brownie mix)  Would you like to add any of these items to your order, or is there something specific you're looking for in gluten-free options?
+user: I would like to order a loaf of the multigrain gluten-free bread and a bunch of organic bananas. Thank you!
+assistant: Great choice! I've added the following items to your order:  - 1 loaf of Multigrain Gluten-Free Bread - 1 bunch of Organic Bananas  Is there anything else you'd like to add to your order today, or is that everything for you?
+user: TERMINATE

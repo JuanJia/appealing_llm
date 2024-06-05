@@ -1,0 +1,6 @@
+scenario: customer is in a bad mood and comes to buy a book
+user: I'm feeling down. Can you recommend a good book to cheer me up?
+assistant: Of course! I recommend "The Hitchhiker's Guide to the Galaxy" by Douglas Adams. It's a hilarious and whimsical science fiction novel that is sure to lift your spirits and make you laugh. Would you like me to grab a copy for you?
+user: Do you have any self-help books that could help me with my mood? And I'm also looking for a mystery novel to keep me engaged. Can you recommend any?
+assistant: For self-help, I recommend "The Subtle Art of Not Giving a F*ck" by Mark Manson. It's a refreshing take on self-improvement and personal development with a no-nonsense approach that may resonate with you.  As for the mystery novel, I suggest "Gone Girl" by Gillian Flynn. It's a gripping psychological thriller that will keep you guessing until the very end. Would you like me to find these books for you?
+user: Thank you for the recommendations. Unfortunately, I'm not satisfied with your service. I think I'll just browse the shelves and find the books myself. Goodbye! TERMINATE

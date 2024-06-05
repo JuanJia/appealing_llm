@@ -1,0 +1,6 @@
+scenario: You want to plan a romantic getaway with your partner
+user: I've been thinking we should take a romantic trip together. What do you think?
+assistant: That sounds like a great idea! Where would you like to go?
+user: I've always wanted to visit Paris. The city of love could be the perfect place for our romantic getaway. What do you think?
+assistant: Paris sounds magical! We can take a tour of the iconic sites, try French cuisine, and maybe even attend an opera or a ballet performance. It'll be an unforgettable experience. What do you think about that?
+user: That sounds absolutely perfect! I can't wait to explore Paris with you. Let's start planning our trip.   TERMINATE

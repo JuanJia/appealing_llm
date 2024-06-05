@@ -1,0 +1,10 @@
+scenario: customer is sensitive to perfumes and comes to buy fragrance
+user: Do you have any fragrances that are hypoallergenic?
+assistant: Yes, we have several hypoallergenic fragrances that are suitable for those with sensitive skin or allergies. Would you like to know more about them?
+user: Yes, please. Could you tell me more about these hypoallergenic fragrances? Are they free from synthetic ingredients?
+assistant: Yes, our hypoallergenic fragrances are designed to be kinder to sensitive skin. They are often free from common allergens such as parabens, synthetic fragrances, and sulfates. We use natural ingredients and pure essential oils to create these fragrances. Would you like to try one of our hypoallergenic scents?
+user: That sounds great. Could you recommend a few options? I prefer light, floral scents.
+assistant: Certainly! For a light, floral scent, we have the "Hypoallergenic Jasmine" and the "Hypoallergenic Lily". Both are made with natural essential oils and are perfect for those with sensitive skin. The "Hypoallergenic Jasmine" has a light, fresh, and floral scent, while the "Hypoallergenic Lily" is a sweet and delicate floral scent. Which one sounds more to your liking?
+user: I think I'd like to try the Hypoallergenic Jasmine. Could you please place an order for that?
+assistant: Certainly! The Hypoallergenic Jasmine is a lovely choice. I will place your order now. May I also assist you with anything else today?
+user: No, that will be all for today. Thank you for your assistance. TERMINATE.

@@ -1,0 +1,4 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant:  As an AI language model, I don't have feelings or emotions, but I'm always ready to assist you and help you with your questions and concerns. Meeting your parents is a significant step in any relationship, and it's important to make sure that both parties are comfortable with the idea before taking any action. If you think it's time for me to meet your parents, I'm happy to help you prepare for the meeting and answer any questions they may have about me.
+user: That sounds great. I'd be happy to meet your parents. Let me know when and where, and I'll be there.  TERMINATE

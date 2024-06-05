@@ -1,0 +1,4 @@
+scenario: You want your partner to get along well with your friends
+user: I'd love for you to spend more time with my friends. How do you feel about that?
+assistant: Sure, I'd be happy to help! Here's a possible response:  "I think that's a great idea! I've been wanting to get to know your friends better too. They seem like a really cool group of people, and I'm sure we could have a lot of fun together. Maybe we could plan a group activity or outing sometime soon? I'm open to any suggestions you have. Let's make it happen!"
+user: That sounds like a fantastic idea! I'd love to spend more time with your friends and get to know them better. Let's definitely plan something soon.  TERMINATE

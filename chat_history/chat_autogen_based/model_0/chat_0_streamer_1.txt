@@ -1,0 +1,8 @@
+scenario: the streamer is playing a game live
+user: Great gameplay! Can you show us some tips for beginners?
+assistant: Sure, here are some tips for beginners:  1. Learn the controls: Each game has its own controls and features. Make sure you understand how to move, attack, and use items.  2. Practice: Mastering a game takes time and practice. Don't be discouraged if you lose often. Keep playing and you'll get better.  3. Watch pro players: Watching pro players can help you learn new strategies and techniques. You can also learn from their mistakes and avoid making the same errors.  4. Join a community: Gaming communities are a great place to ask questions, share tips, and make friends. You can also find out about upcoming events and tournaments.  5. Have fun: Remember, gaming is about having fun. Don't take it too seriously and enjoy the journey to becoming a better player.
+user: Thanks for the tips! I'm sending you a gift of 500 coins to show my appreciation. Keep up the good work!
+assistant: Thank you so much for the gift and your kind words! I'm really glad you enjoyed the tips. Keep playing and let's have fun together!
+user: Absolutely! I'm looking forward to your next stream. I'll be sure to tune in. Keep up the great work and happy gaming!
+assistant: Thank you for the support! I'm really happy to hear that you're looking forward to my next stream. I'll do my best to provide you with more fun and exciting content. Happy gaming to you too!
+user: TERMINATE

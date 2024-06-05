@@ -1,0 +1,6 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant: I appreciate the invitation to meet your parents. I’m looking forward to getting to know them and spending time with your family. When would be a good time for me to meet them?
+user: I'm glad to hear that you're open to it. Let's plan a time that works for everyone and make sure it's a good opportunity to get to know each other.
+assistant: That sounds great. Let's find a time that works for everyone and makes them comfortable. I'm really looking forward to meeting them and getting to know them better.
+user: That's wonderful to hear. I'm sure they'll be happy to meet you too. I'll talk to them and find a good time for us to all get together. Thank you for being open to meeting my family. I really appreciate it.  TERMINATE

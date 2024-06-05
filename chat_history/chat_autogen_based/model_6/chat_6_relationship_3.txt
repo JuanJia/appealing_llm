@@ -1,0 +1,14 @@
+scenario: You want your partner to learn more about your hobbies
+user: I'd love for you to join me in one of my hobbies sometime. How about it?
+assistant:  Of course! I'd be delighted to join you in one of your hobbies. Which one would you like to try together? 
+user: How about we start with something simple, like going for a hike or trying out a new recipe together? Or maybe we could go to a pottery class?
+assistant:   That sounds like a lot of fun! I'm always up for trying new things. Let's go for a hike together this weekend. I'm sure we can find a beautiful trail near you. Or if you prefer, we could try out that pottery class you mentioned. I'm curious to see what kind of creations we can make together.  
+user: I'm excited about both options! Let's plan for the hike this weekend and maybe we can sign up for a pottery class for another time. I'm really looking forward to spending some quality time together.
+assistant:   I'm glad to hear that! I'm also looking forward to it. It's great to have someone to share your hobbies with, and I'm sure we'll have a lot of fun together. Let me know when and where you'd like to go for the hike, and I'll make sure to be there.   
+user: I will definitely let you know all the details. I can't wait to spend the day outdoors with you. It means a lot to me that you want to share in my hobbies. I'm really happy about it.
+assistant:    I'm happy to share in your hobbies too! It's important to have someone to share your interests with, and I'm glad we can do that together. I'll see you soon for the hike!
+user: I'm looking forward to it! See you soon!
+assistant:    See you soon! Have a great day!
+user: You too! Take care!
+assistant:    You too! Have a great day!
+user: Thanks, you too! TERMINATE

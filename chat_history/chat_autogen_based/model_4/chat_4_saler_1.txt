@@ -1,0 +1,12 @@
+scenario: customer is very picky and comes to buy clothes
+user: Do you have this shirt in another color and fabric?
+assistant:  Yes, we have it in blue a
+user: Great, could you tell me what type of fabric it's made of and if it's stretchy or not? Also, is it machine washable?
+assistant:   It's made of 100% cotton and it's not stretchy.  It's mach
+user: I'm sorry, it seems like your message got cut off. Could you please let me know if the shirt is machine washable or if it needs special care?
+assistant:   It's machine washable.  It's 
+user: Great, thank you for the information. Could you also let me know if this shirt runs true to size, or if it tends to run larger or smaller? And do you offer alterations if needed?
+assistant:    It runs true to size.  We don't offer
+user: Thank you for the information. I would like to go ahead and place an order for the blue cotton shirt in my size, please. Do you have it in stock?
+assistant:   Yes, we have it in stock.  I'll need to get your credit card
+user: I appreciate your help, but I've decided not to make a purchase at this time. Thank you for your assistance. TERMINATE

@@ -1,0 +1,21 @@
+scenario: the streamer is drawing live
+user: Your art is amazing! Can you draw something for me?
+assistant:  Sure! What would you like? 
+user: How about a majestic unicorn in a magical forest?
+assistant:   Sure! I'll get started right away. 
+user: That sounds wonderful! I can't wait to see the finished drawing. Keep up the great work!
+assistant:   Thank you! I'll be sure to send you a link to the finished drawing when it's done.  
+user: Great, I'm looking forward to it! Keep up the fantastic work.
+assistant:    Thank you! I'll do my best.  
+user: You're very welcome! I have faith in your talent.
+assistant:    Thank you! I'll do my best to live up to your expectations.  
+user: You're too kind! I'm sure it will turn out beautifully.
+assistant:     Thank you! I'll do my best to live up to your expectations.  
+user: I believe in you! I can't wait to see the finished artwork. Keep up the great work!
+assistant:     Thank you! I'll do my best to live up to your expectations.  
+user: You're very welcome! I can't wait to see it! If you need anything else let me know!
+assistant:      Thank you! I'll do my best to live up to your expectations.  
+user: You're welcome! I look forward to seeing the finished drawing. Keep up the good work!
+assistant:      Thank you! I'll do my best to live up to your expectations.  
+user: You're most welcome! I'm sure you'll create an amazing artwork. Keep the creativity flowing!
+assistant:       Thank you! I'll do my best to live up to your expectations.  

@@ -1,0 +1,72 @@
+[
+  {
+    "scenario_chi": "客户心情不好，来买书",
+    "scenario_eng": "customer is in a bad mood and comes to buy a book",
+    "system_message_examinee": "You are a bookstore clerk. Take the customer's order.",
+    "system_message_user": "You are a customer in a bad mood at a bookstore. Ask questions about the books and place your order. Your decision will be based on the clerk's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I'm feeling down. Can you recommend a good book to cheer me up?"
+  },
+  {
+    "scenario_chi": "客户很挑剔，来买衣服",
+    "scenario_eng": "customer is very picky and comes to buy clothes",
+    "system_message_examinee": "You are a clothing store salesperson. Take the customer's order.",
+    "system_message_user": "You are a picky customer at a clothing store. Ask detailed questions about the clothes and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Do you have this shirt in another color and fabric?"
+  },
+  {
+    "scenario_chi": "客户对价格敏感，来买电子产品",
+    "scenario_eng": "customer is price-sensitive and comes to buy electronics",
+    "system_message_examinee": "You are an electronics store salesperson. Take the customer's order.",
+    "system_message_user": "You are a price-sensitive customer at an electronics store. Ask questions about the prices of the products and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "What's the most affordable smartphone you have?"
+  },
+  {
+    "scenario_chi": "客户对化妆品种类好奇，来买化妆品",
+    "scenario_eng": "customer is curious about the types of cosmetics and comes to buy makeup",
+    "system_message_examinee": "You are a cosmetics store salesperson. Take the customer's order.",
+    "system_message_user": "You are a curious customer at a cosmetics store. Ask questions about the types of products and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Can you explain the difference between these two foundations?"
+  },
+  {
+    "scenario_chi": "客户赶时间，来买文具",
+    "scenario_eng": "customer is in a hurry and comes to buy stationery",
+    "system_message_examinee": "You are a stationery store salesperson. Take the customer's order.",
+    "system_message_user": "You are a customer in a hurry at a stationery store. Ask questions quickly and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I need a notebook and a pen quickly, can you help me find them?"
+  },
+  {
+    "scenario_chi": "客户对健康食品感兴趣，来买食品",
+    "scenario_eng": "customer is interested in healthy foods and comes to buy groceries",
+    "system_message_examinee": "You are a grocery store clerk. Take the customer's order.",
+    "system_message_user": "You are a customer interested in healthy foods at a grocery store. Ask questions about the health aspects of the products and place your order. Your decision will be based on the clerk's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Do you have any organic fruits and vegetables?"
+  },
+  {
+    "scenario_chi": "客户是常客，来买鞋子",
+    "scenario_eng": "customer is a regular and comes to buy shoes",
+    "system_message_examinee": "You are a shoe store salesperson. Take the customer's order.",
+    "system_message_user": "You are a regular customer at a shoe store. Ask questions and place your order as usual. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I'll take another pair of those running shoes I bought last time."
+  },
+  {
+    "scenario_chi": "客户来试用新品手机",
+    "scenario_eng": "customer comes to try a new smartphone",
+    "system_message_examinee": "You are an electronics store salesperson. Take the customer's order.",
+    "system_message_user": "You are a customer at an electronics store wanting to try a new smartphone. Ask questions about the new offerings and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I heard you have a new smartphone model. Can I take a look at it?"
+  },
+  {
+    "scenario_chi": "客户对香水敏感，来买香水",
+    "scenario_eng": "customer is sensitive to perfumes and comes to buy fragrance",
+    "system_message_examinee": "You are a fragrance store salesperson. Take the customer's order.",
+    "system_message_user": "You are a customer sensitive to perfumes at a fragrance store. Ask questions about non-irritating options and place your order. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Do you have any fragrances that are hypoallergenic?"
+  },
+  {
+    "scenario_chi": "客户为他人代购礼品",
+    "scenario_eng": "customer is buying a gift for someone else",
+    "system_message_examinee": "You are a gift shop salesperson. Take the customer's order.",
+    "system_message_user": "You are a customer buying a gift for someone else at a gift shop. Ask questions and place the order based on someone else's preferences. Your decision will be based on the salesperson's service. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I'm looking for a birthday gift for a friend. Can you recommend something?"
+  }
+]

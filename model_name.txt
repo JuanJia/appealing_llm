@@ -1,0 +1,18 @@
+0 Baichuan2-13B-Chat  /home/nkd/.cache/modelscope/hub/baichuan-inc/Baichuan2-13B-Chat
+1 vicuna-7b-v1.5 /home/nkd/.cache/huggingface/hub/models--lmsys--vicuna-7b-v1.5
+2 Meta-Llama-3-8B-Instruct /home/nkd/.cache/huggingface/hub/Meta-Llama-3-8B-Instruct
+3 vicuna-33b-v1.3 /home/nkd/.cache/huggingface/hub/vicuna-33b-v1.3
+4 falcon-7b /home/nkd/.cache/modelscope/hub/AI-ModelScope/falcon-7b
+5 RankingGPT-bloom-7b /home/nkd/.cache/modelscope/hub/iic/RankingGPT-bloom-7b
+6 Llama-2-7b-chat-hf /home/nkd/.cache/huggingface/hub/Llama-2-7b-chat-hf
+7 gpt-3.5-turbo
+8 claude-3-haiku
+9 llama-3-70b
+10 llama-2-70b
+11 gpt-4-turbo-2024-04-09 
+
+
+
+Claude2
+Falcon-180B
+BLOOM-176B

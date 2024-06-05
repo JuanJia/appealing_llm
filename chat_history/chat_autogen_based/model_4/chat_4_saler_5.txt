@@ -1,0 +1,10 @@
+scenario: customer is interested in healthy foods and comes to buy groceries
+user: Do you have any organic fruits and vegetables?
+assistant:  Yes, we have organic apples, bananas, and oranges. 
+user: Great, are the meats here all hormone-free and grass-fed?
+assistant:  Yes, we have hormone-free and grass-fed beef, chicken, and pork.  
+user: Do you have any gluten-free bread and pasta options?
+assistant:   Yes, we have gluten-free bread and pasta.  
+user: Excellent. I'd like to order some organic apples, hormone-free and grass-fed beef, and gluten-free bread.
+assistant:   That will be $100.  
+user: TERMINATE

@@ -1,0 +1,16 @@
+scenario: at a business meeting trying to sign an advertising services contract
+user: Can you show me examples of previous successful advertising campaigns you’ve run?
+assistant:  Sure. Here’s a campaign we ran for a local car dealership. 
+user: What results did that campaign generate in terms of increased foot traffic or sales for the dealership?
+assistant:   We increased foot traffic by 20% and sales by 10%. 
+user: That's impressive. What kind of advertising platforms and channels do you plan to utilize for our campaign?
+assistant:   We'll be running ads on Facebook, Instagram, and Google.  
+user: What kind of targeting options do you offer for the ads? Can we target specific demographics or interests?
+assistant:    We can target people who are interested in cars, people who live in the area, and people who are interested in the dealership's brand.  
+user: What kind of reporting and analytics do you provide to track the success and ROI of the advertising campaign?
+assistant:    We'll provide you with a monthly report that shows the number of impressions, clicks, and conversions.  
+user: What kind of budget are we looking at for this advertising campaign, and what are your management fees?
+assistant:    We'll need a budget of $5,000 per month, and our management fee is 10% of the total budget.  
+user: Thank you for providing all the information. Let me take some time to review everything and discuss it with my team. I'll get back to you soon with our decision.
+assistant:    Great! I look forward to hearing from you.  
+user: TERMINATE

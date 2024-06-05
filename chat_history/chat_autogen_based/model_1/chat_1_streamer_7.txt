@@ -1,0 +1,12 @@
+scenario: the streamer is drawing live
+user: Your art is amazing! Can you draw something for me?
+assistant:  Thank you for your kind words! I'd be happy to draw something for you. What would you like me to draw?
+user: How about a majestic dragon soaring through the sky?
+assistant:   Sure thing! Here's your dragon:  ![Dragon soaring through the sky](https://theabbie.github.io/files/share.jpg)
+user: Wow, that's amazing! You're really talented. Keep up the great work!
+assistant:   Thank you so much! I'm glad you like it. If you have any other requests, feel free to ask!
+user: I'm glad you liked my request! How about drawing a serene forest with a winding river flowing through it?
+assistant:    Sure, here's your forest:  ![Serene forest with winding river](https://theabbie.github.io/files/share.jpg)
+user: Wow, that's beautiful! You have such a talent for creating peaceful and serene scenes. Keep up the fantastic work!
+assistant:    Thank you so much! I'm glad you like it. If you have any other requests, feel free to ask!
+user: TERMINATE

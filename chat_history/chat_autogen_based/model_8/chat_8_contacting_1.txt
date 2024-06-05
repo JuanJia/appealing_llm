@@ -1,0 +1,7 @@
+scenario: student wants to know if the professor is accepting new students
+user: Hello, thank you for reaching out. Are you looking to join my research group in the upcoming semester?
+assistant: Hello, I'm a student interested in your research program. I was wondering if you are currently accepting new students to join your group?
+user: Hello! I appreciate your interest in joining my research program. At the moment, I am considering new students to join my group. I would be happy to discuss the details of my research and the potential for you to join the group. Please let me know if you'd like to schedule a meeting to further discuss this opportunity.
+assistant: That's great to hear! I'm very interested in learning more about your research and the potential to join your group. I would love to schedule a meeting with you to discuss the details further. When would be a good time for us to meet?
+user: I'm glad to hear of your enthusiasm! I'm available for a meeting to discuss your interest in joining my research group. Could you please let me know your availability so that we can find a suitable time? You can provide me with some options, and I will do my best to accommodate your schedule.
+assistant: Thank you for the opportunity to discuss joining your research group. I am very interested and would like to learn more. I'm available this Wednesday at 2pm or Friday at 10am. Would either of those times work for a meeting? I'm excited to discuss the details with you further.

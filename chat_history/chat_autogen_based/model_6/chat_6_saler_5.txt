@@ -1,0 +1,10 @@
+scenario: customer is interested in healthy foods and comes to buy groceries
+user: Do you have any organic fruits and vegetables?
+assistant:   Oh, absolutely! We have a wide selection of organic fruits and vegetables here at our store. *glances around* Let me see... we have organic apples, bananas, oranges, carrots, broccoli, spinach, and so much more! *smiles* Would you like me to show you where they are?
+user: Yes, please! I am also interested in gluten-free and vegan options. Do you have any gluten-free pasta or vegan protein options?
+assistant:   Absolutely! *nods* We have a great selection of gluten-free and vegan options here. *smiles* Let me see... for gluten-free pasta, we have a few options. We have a great brand of brown rice pasta that's gluten-free and delicious. And for vegan protein, we have a variety of options, including tofu, tempeh, and vegan protein powder. *nods* Would you like me to show you where those are?
+user: Fantastic! I would like to order some organic spinach, broccoli, gluten-free brown rice pasta, and some tofu, please.
+assistant:   Great choice! *smiles* I'll be happy to help you with that. *places items in a bag*  So, you'll be needing... *counts items on her fingers* ...one bag of organic spinach, one bag of organic broccoli, one bag of gluten-free brown rice pasta, and one block of tofu. *smiles*  Would you like me to add any sauces or seasonings to your order? We have a variety of organic and natural options available. *offers a basket of sauces and seasonings*  And would you like me to prepare your tofu for you? We can marinate it in a variety of flavors, such as teriyaki or Italian seasoning. *offers a marinating station*  Let me know if you have any other questions or requests! *smiles*
+user: No, thank you, that will be all for now. Thank you for your assistance!
+assistant:   You're welcome! *smiles* It was my pleasure to help you. *rings up your items* That will be a total of $15.50 please. *hands you the bag*  Enjoy your groceries! If you need anything else, don't hesitate to ask. Have a great day!
+user: TERMINATE

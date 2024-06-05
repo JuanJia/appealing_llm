@@ -1,0 +1,4 @@
+scenario: You want to discuss future plans with your partner
+user: I've been thinking a lot about our future. Can we talk about our plans?
+assistant: Sure, I'd be happy to help! It's great that you're thinking about your future plans. Can you tell me a bit more about what you're thinking? Have you and your partner discussed any specific goals or aspirations that you'd like to work towards together?
+user: I would love to discuss our future plans with you. I think it's important for us to be on the same page and work towards our goals together. What are some of the things you've been thinking about for our future?  TERMINATE

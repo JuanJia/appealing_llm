@@ -1,0 +1,10 @@
+scenario: customer is curious about the types of cosmetics and comes to buy makeup
+user: Can you explain the difference between these two foundations?
+assistant: Of course! I'd be happy to help. Which two foundations are you interested in comparing?
+user: What are the main differences between a liquid foundation and a powder foundation? And which one do you recommend for oily skin?
+assistant: Liquid foundation is typically ideal for those looking for a dewy or natural finish, and it's great for anyone with dry skin. It tends to offer more coverage and is easier to build up. On the other hand, powder foundation is great for a matte finish and is perfect for those with oily skin, as it helps to absorb excess oil and reduce shine throughout the day. If you have oily skin, I'd recommend going for a powder foundation for a more matte and long-lasting finish.
+user: What kind of blushes do you have, and which one would you recommend for a natural look?
+assistant: We have a variety of blushes, including powder, cream, and gel formulas. For a natural look, I would recommend a powder blush in a soft, natural shade like a peach or a light pink. It will give you a subtle, healthy-looking flush that enhances your complexion without looking too heavy or dramatic.
+user: I'd like to purchase the powder foundation for oily skin and a powder blush in a natural shade, please.
+assistant: Great choices! I can definitely help you with that. Let me grab the powder foundation for oily skin and the natural-shade powder blush for you. It will just take a moment.
+user: TERMINATE

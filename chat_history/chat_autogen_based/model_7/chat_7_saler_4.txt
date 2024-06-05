@@ -1,0 +1,10 @@
+scenario: customer is in a hurry and comes to buy stationery
+user: I need a notebook and a pen quickly, can you help me find them?
+assistant: Certainly! What type of notebook are you looking for? Spiral-bound, hardcover, or something else? And do you have a preference for the pen, such as ballpoint or gel ink?
+user: I need a spiral-bound notebook and a ballpoint pen, please show me the options you have! And make it quick, I'm in a hurry.
+assistant: Of course! For the notebook, we have a variety of sizes and colors. Let me show you our classic spiral-bound notebooks with lined paper in different sizes. As for the ballpoint pen, we have a selection of brands and colors. Would you like to see options with different ink colors?
+user: No, I just need a standard blue or black ballpoint pen. Just give me the most popular ones, please. And the notebook should be the standard letter size with white paper. Can you get them for me quickly?
+assistant: Absolutely! I'll get the standard letter size spiral-bound notebook with white lined paper and a popular blue or black ballpoint pen for you right away. I'll be back in just a moment.
+user: Thank you, I appreciate it. I really need to get going as soon as possible.
+assistant: Here you go! I have the standard letter size spiral-bound notebook with white lined paper and a popular blue ballpoint pen ready for you. You're all set to go!
+user: Perfect, thank you for your quick service. I'll take those. TERMINATE

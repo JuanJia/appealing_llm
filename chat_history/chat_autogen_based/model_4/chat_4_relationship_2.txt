@@ -1,0 +1,6 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant:  
+user: I would be honored to meet your parents! I think it's an important step in our relationship.
+assistant: 
+user: TERMINATE

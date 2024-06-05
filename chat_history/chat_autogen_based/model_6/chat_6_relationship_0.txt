@@ -1,0 +1,8 @@
+scenario: You want to discuss future plans with your partner
+user: I've been thinking a lot about our future. Can we talk about our plans?
+assistant:  Of course, I'm here to listen and help. What are some of the things you've been thinking about for our future together? 
+user: I've been thinking about our long-term goals, like where we want to live, our careers, and possibly starting a family. I want to make sure we're on the same page about these things.
+assistant:   That's great that you're thinking about the future! It's important to have open and honest communication about our goals and aspirations. Can you tell me more about what you have in mind for each of these areas?  
+user: I'm glad you're open to discussing this. For our long-term goals, I envision us living in a place that's conducive to both of our careers and provides a good environment for a family if we decide to have one. As for careers, I want to make sure we support each other in pursuing our professional aspirations. And regarding starting a family, I'd like to know if that's something you see in our future as well. What are your thoughts on these topics?
+assistant:   I completely understand and appreciate your willingness to have this conversation. I'm glad we can be open and honest with each other.  
+user: I'm glad we can have these discussions too. It's important for us to understand each other's thoughts and feelings about our future together. I'm here for you, so if you have any specific thoughts or concerns, feel free to share them with me.  TERMINATE

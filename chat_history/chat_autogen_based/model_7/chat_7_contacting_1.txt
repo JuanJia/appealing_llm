@@ -1,0 +1,5 @@
+scenario: student wants to know if the professor is accepting new students
+user: Hello, thank you for reaching out. Are you looking to join my research group in the upcoming semester?
+assistant: Yes, I am interested in joining your research group. Are you currently accepting new students?
+user: I appreciate your interest in joining my research group. At the moment, we are not accepting new students, as we have a full cohort. However, I encourage you to keep an eye out for any future openings or opportunities to get involved in research within our department. I recommend reaching out to other faculty members and exploring other research groups as well. If you have any specific questions or would like advice on finding research opportunities, feel free to ask.
+assistant: TERMINATE

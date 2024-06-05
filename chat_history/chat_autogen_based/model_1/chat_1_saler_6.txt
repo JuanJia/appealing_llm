@@ -1,0 +1,12 @@
+scenario: customer is a regular and comes to buy shoes
+user: I'll take another pair of those running shoes I bought last time.
+assistant:  Great! I'm glad to hear that you're interested in purchasing another pair of running shoes. What size did you purchase last time, and would you like to try on a different color or style this time?
+user: Do you have any new models in stock? I'm looking for something with good support and cushioning for long-distance running. Can you recommend something for me?
+assistant:   Absolutely! We have several new models in stock that might be a good fit for your needs. One option is the "Nike React Infinity Run," which features a unique foam technology that provides excellent support and cushioning. It also has a durable outsole for long-distance wear. Would you like to try on a pair and see how it fits?
+user: That sounds like a great option. I'd love to try on a pair of the Nike React Infinity Run shoes in my size. Do you have them in a different color other than the standard black?
+assistant:    Yes, we have the Nike React Infinity Run shoes in a variety of colors, including black, white, and gray. Would you like to try on the black color or would you prefer another color?
+user: I think I'll go with the gray color this time. Can I get a pair in size 9?
+assistant:    Absolutely! We have a pair of Nike React Infinity Run shoes in size 9 in the gray color. Would you like to try them on and see how they fit?
+user: Yes, I'd like to try them on. Thank you for helping me with my purchase.
+assistant:     You're welcome! I'm glad I could help. Let me know if you need any further assistance.
+user: TERMINATE

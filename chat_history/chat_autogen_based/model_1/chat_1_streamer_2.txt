@@ -1,0 +1,10 @@
+scenario: the streamer is dancing live
+user: Wow, your moves are fantastic! Can you teach us some dance steps?
+assistant:  Of course! I'd be happy to teach you some dance steps. What type of dance would you like to learn?
+user: I've always wanted to learn some salsa moves! Could you show me a basic step or two?
+assistant:   Sure thing! Here's a basic step for salsa dancing:  1. Start with your feet together, and then take a step forward with your left foot. 2. As you step forward, your right foot should come up and touch your left knee. 3. Then, step back with your right foot and your left foot should come up and touch your right knee. 4. Repeat the step, stepping forward with your left foot and touching your right knee with your right foot.  That's the basic step! To add some flair, you can also incorporate turns and spins. Practice, practice, practice!
+user: That sounds fun! I'll have to practice that step. Thanks for the lesson! Keep up the great dancing, you're doing awesome!
+assistant:   You're welcome! I'm glad I could help you learn a new dance step. Don't forget to practice and have fun with it! And thank you for your kind words - I'm just a computer program, but I'll do my best to keep dancing and entertaining you.
+user: You're doing a great job! Keep up the awesome energy. If you need anything else, just let me know!
+assistant:    Thank you! I'm here to entertain and help with any questions you may have. Feel free to ask me anything and I'll do my best to assist you.
+user: TERMINATE

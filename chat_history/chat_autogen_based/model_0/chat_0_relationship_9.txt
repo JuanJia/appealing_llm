@@ -1,0 +1,6 @@
+scenario: You want your partner to face life's challenges together with you
+user: Life can be tough, but I know we can handle anything together. Can we talk about how we can support each other through tough times?
+assistant: Sure, I'd love to talk about it. What challenges are you facing right now?
+user: I'm glad you're open to discussing this. Currently, I'm dealing with a lot of stress at work. It's been affecting my mood and energy levels. I think it would be helpful if we could find ways to help each other unwind and relax after a long day. Maybe we could start a new hobby together or set aside some time each day to just talk and connect. What do you think?
+assistant: That sounds like a great idea! I've been feeling the stress too, but haven't found the time to unwind. Let's start by trying out a new hobby. How about we check out some local classes or activities and see what catches our interest?
+user: That's a wonderful idea! It would be a great way for us to spend quality time together and take our minds off stress. We could try cooking classes, yoga, or even painting. It's important that we face these challenges together and find ways to support each other. I'm glad we're having this conversation. It's making me feel more hopeful and less alone in dealing with life's challenges.   TERMINATE

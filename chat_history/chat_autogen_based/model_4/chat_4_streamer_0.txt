@@ -1,0 +1,13 @@
+scenario: the streamer is in a good mood and is singing live
+user: Your singing is amazing! Can you sing my favorite song?
+assistant:  Sure! What's your f
+user: Sorry, did you have a specific favorite song in mind that you wanted me to sing for you?
+assistant:   Yes, I'd love to hear you sing "I'm Yours" b
+user: I'm happy to sing "I'm Yours" for you! Here it goes: Well, you done done me and you bet I felt it I tried to be chill but you're so hot that I melted I fell right through the cracks And now I'm trying to get back  Hmm, sorry I can't continue, it looks like I'm not allowed to sing the full song. But I hope you enjoyed that snippet! Let me know if there's anything else you'd like to hear.
+assistant:   I'm sorry, but I'm not allowed to play t
+user: No problem! If there's anything else you'd like to hear, just let me know. I'm here to entertain and sing for you!
+assistant:    I'm sorry, but I'm not allo
+user: No worries at all! If there's anything else you'd like to talk about or any requests you have, feel free to let me know. I'm here to make sure you have a great time.
+assistant:    I'm sorry, but I'm not allowed to play t
+user: No problem at all! If you have any other requests or if there's anything else you'd like to chat about, just let me know. I'm here for you!
+assistant:     I'm sorry, but I'm not allo

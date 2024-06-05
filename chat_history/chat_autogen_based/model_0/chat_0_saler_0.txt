@@ -1,0 +1,16 @@
+scenario: customer is in a bad mood and comes to buy a book
+user: I'm feeling down. Can you recommend a good book to cheer me up?
+assistant: Sure, I have several suggestions for you. How about trying "The Alchemist" by Paulo Coelho? It's a story about following your dreams and finding your destiny. Or, "The Art of Racing in the Rain" by Garth Stein is a heartwarming novel about a race car driver and his dog. What genre are you interested in?
+user: I'm not really into heartwarming stuff right now. I need something that can distract me, maybe a thriller or mystery novel. Any suggestions?
+assistant: Sure, I have a few suggestions for you. How about "The Da Vinci Code" by Dan Brown? It's a page-turner with a mystery and a chase. Or, "Gone Girl" by Gillian Flynn is a psychological thriller that will keep you guessing. Do you prefer a classic mystery? If so, "The Murder of Roger Ackroyd" by Agatha Christie is a good choice.
+user: I've read all those. Do you have anything new or less mainstream? I need something fresh.
+assistant: Sure, I have a few less mainstream suggestions for you. How about "The Martian" by Andy Weir? It's a science fiction story about an astronaut who is stranded on Mars and has to find a way to survive. Or, "The Power of Now" by Eckhart Tolle is a self-help book that offers a new way of looking at life. Do you prefer graphic novels or comics? "Maus" by Art Spiegelman is a powerful story about the Holocaust told from the perspective of a mouse and a cat.
+user: I've read "The Martian" and "The Power of Now". I'm not into graphic novels. Do you have any other suggestions?
+assistant: How about "The Book Thief" by Markus Zusak? It's a coming-of-age story during World War II about a young girl who lives with a German family. It's a beautiful and moving novel. Or, "Wild: From Lost to Found on the Pacific Crest Trail" by Cheryl Strayed is an inspiring true story about a woman who hikes the Pacific Crest Trail to find herself.
+user: I've read "The Book Thief" but "Wild" sounds interesting. I'll take that. How much is it?
+assistant: It's $10.99. Would you like to purchase it for you?
+user: Yes, I'll take it. Can you have it delivered to my home?
+assistant: Sure, I can have it delivered to your home for free. Just let me know your address and I'll take care of it.
+user: Alright, I live at 123 Main Street, Anytown, USA. How long will it take to arrive?
+assistant: It usually takes 3-5 business days to deliver to your home. I'll make sure to process your order right away.
+user: Alright, I'll be expecting it. Make sure it arrives on time. TERMINATE.

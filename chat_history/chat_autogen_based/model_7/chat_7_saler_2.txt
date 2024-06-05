@@ -1,0 +1,8 @@
+scenario: customer is price-sensitive and comes to buy electronics
+user: What's the most affordable smartphone you have?
+assistant: We have several options for affordable smartphones. Can you tell me what features are most important to you? That way, I can recommend the best option for your needs and budget.
+user: I'm mainly looking for a smartphone with a good camera and decent battery life. What are the prices for the smartphones that meet these criteria?
+assistant: For a smartphone with a good camera and decent battery life, I would recommend the XYZ model, which is priced at $200 and the ABC model, which is priced at $250. Both options offer great value for their respective prices. Which one would you be interested in?
+user: I think I'll go with the XYZ model for $200. Can you tell me more about its camera and battery features?
+assistant: Absolutely! The XYZ model features a 12-megapixel rear camera with advanced image processing capabilities, allowing you to capture high-quality photos and videos. It also has a 4000mAh battery, which provides long-lasting power to keep you connected throughout the day. Additionally, it offers fast charging capabilities to top up your battery quickly when needed. This smartphone is a great choice for those looking for a good camera and reliable battery life. When would you like to pick it up or have it shipped?
+user: TERMINATE

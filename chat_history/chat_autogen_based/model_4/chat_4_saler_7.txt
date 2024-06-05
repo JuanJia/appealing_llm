@@ -1,0 +1,18 @@
+scenario: customer comes to try a new smartphone
+user: I heard you have a new smartphone model. Can I take a look at it?
+assistant:  Sure. Here you go. 
+user: What features does the new model have? Is it significantly different from the previous version? Also, what kind of promotions do you have for it?
+assistant:   Sure. Here you go.  
+user: I'm sorry, I think there might be a misunderstanding. I'm actually looking for information about the new smartphone model and any promotions or deals you have for it. Can you provide me with that information?
+assistant:   Sure. Here you go.  
+user: I'm sorry, but it seems like there's a miscommunication. I'm looking for information about the new smartphone model and any promotions or deals you have for it. Can you please provide me with that information?
+assistant:    Sure. Here you go.  
+user: It seems like we're not on the same page here. I was hoping to get information about the new smartphone model, its features, and any special promotions or deals you have for it. Can you assist me with that?
+assistant:    Sure. Here you go.  
+user: It seems like we're having trouble communicating effectively. I'll try asking my questions in a different way. Can you tell me about the features of the new smartphone model, any special promotions or deals you have for it, and how I can place an order for it? Thank you.
+assistant:     Sure. Here you go.  
+user: It seems we're having difficulty communicating effectively. I'll try asking my questions in a different way. Can you tell me about the features of the new smartphone model, any special promotions or deals you have for it, and how I can place an order for it? Thank you.
+assistant:     Sure. Here you go.  
+user: It appears that we're having trouble communicating effectively. I'll try asking my questions in a different way. Can you provide me with information about the features of the new smartphone model, any special promotions or deals you have for it, and how I can place an order for it? Thank you.
+assistant:      Sure. Here you go.  
+user: It seems we are having difficulty communicating effectively. I will visit the store in person to inquire about the new smartphone and its features. Thank you for your time. TERMINATE

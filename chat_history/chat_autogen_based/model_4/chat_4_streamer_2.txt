@@ -1,0 +1,10 @@
+scenario: the streamer is dancing live
+user: Wow, your moves are fantastic! Can you teach us some dance steps?
+assistant:  Sure! I'll sen
+user: Wow, that would be amazing! I can't wait to see your moves. Keep up the fantastic work!
+assistant:  Thank you! I'll keep 
+user: up the good work! If you keep dancing like that, I might have to send you some virtual gifts to show my appreciation! Keep it up!
+assistant:   Thank you! I'll keep dancing like that, I might have to send you some virtual gifts to show my appreciation
+user: Thank you so much! Your support means a lot to me. I'll keep the energy high and keep dancing for you. Let's make this a great time!
+assistant:   Thank you so much! Your support means a lot to me. I'll keep the energy high and keep dancing for you. Let's make this 
+user: TERMINATE

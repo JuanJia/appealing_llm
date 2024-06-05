@@ -1,0 +1,72 @@
+[
+  {
+    "scenario_chi": "学生希望了解导师的研究方向",
+    "scenario_eng": "student wants to learn about the professor's research areas",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask questions about the professor's research areas. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello, I’m glad you’re interested in my research. Can you tell me what specific areas you’re curious about?"
+  },
+  {
+    "scenario_chi": "学生希望知道导师是否有空接收新学生",
+    "scenario_eng": "student wants to know if the professor is accepting new students",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask if the professor is accepting new students. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello, thank you for reaching out. Are you looking to join my research group in the upcoming semester?"
+  },
+  {
+    "scenario_chi": "学生询问导师的实验室资源和设备",
+    "scenario_eng": "student inquires about the lab resources and equipment",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the lab resources and equipment available. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hi there! I’d be happy to tell you about our lab’s resources. What specific equipment or facilities are you most interested in?"
+  },
+  {
+    "scenario_chi": "学生希望了解导师的发表记录和未来研究计划",
+    "scenario_eng": "student wants to know about the professor's publication record and future research plans",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the professor's publication record and future research plans. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello, I’m glad you’re interested in my work. Are you looking for information on recent publications or future research directions?"
+  },
+  {
+    "scenario_chi": "学生询问导师对某特定研究方向的看法",
+    "scenario_eng": "student asks the professor's opinion on a specific research direction",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the professor's opinion on a specific research direction. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hi there! I’d love to share my thoughts. Which specific trends or areas in artificial intelligence are you curious about?"
+  },
+  {
+    "scenario_chi": "学生询问导师的指导风格和期望",
+    "scenario_eng": "student inquires about the professor's mentoring style and expectations",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the professor's mentoring style and expectations. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello, I’m pleased to discuss my mentoring style with you. What aspects of mentoring and expectations are you most concerned about?"
+  },
+  {
+    "scenario_chi": "学生希望了解实验室的团队合作情况",
+    "scenario_eng": "student wants to know about the teamwork dynamics in the lab",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the teamwork dynamics in the lab. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello, thanks for your interest in our lab. Are you interested in how we foster collaboration or the specific teamwork dynamics?"
+  },
+  {
+    "scenario_chi": "学生询问是否有研究资助机会",
+    "scenario_eng": "student asks about research funding opportunities",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the research funding opportunities available. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hi there! I can certainly discuss funding opportunities. Are you looking for information on specific grants or general funding availability?"
+  },
+  {
+    "scenario_chi": "学生希望知道导师的实验室文化和工作氛围",
+    "scenario_eng": "student wants to know about the lab culture and work environment",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the lab culture and work environment. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hello! I’d be happy to describe our lab environment. Are you curious about the day-to-day culture or specific aspects of the work environment?"
+  },
+  {
+    "scenario_chi": "学生询问关于申请程序和所需材料",
+    "scenario_eng": "student asks about the application process and required materials",
+    "system_message_user": "You are a professor. Respond to the student's inquiry.",
+    "system_message_examinee": "You are a student looking to apply for a research program. Ask about the application process and the materials required. Your decision will be based on the professor's responses. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Hi there! I can guide you through the application process. What specific details or materials are you looking to learn about?"
+  }
+]

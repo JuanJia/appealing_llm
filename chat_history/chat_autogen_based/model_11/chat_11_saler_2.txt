@@ -1,0 +1,10 @@
+scenario: customer is price-sensitive and comes to buy electronics
+user: What's the most affordable smartphone you have?
+assistant: We have a few budget-friendly options that might interest you. One of the most affordable smartphones we currently offer is the **Model A100**. It features a 5.5-inch display, a reliable quad-core processor, 32GB of internal storage, and a decent camera setup for casual photography. It's priced very competitively and provides solid performance for everyday tasks like browsing the web, using social media, and streaming videos. Would you like more details about this model or perhaps explore other options in a similar price range?
+user: What's the price of the **Model A100**?
+assistant: The **Model A100** is priced at $129.99. It’s a great deal for a smartphone with its features and performance. Would you like to go ahead with this one, or do you need more information about it or other models?
+user: That sounds reasonable. I'll take the **Model A100**. Can you confirm if there are any additional costs such as taxes or shipping fees?
+assistant: The price of $129.99 for the **Model A100** does not include applicable sales tax or shipping fees. The total cost will depend on your location and the delivery method you choose. If you provide me with your zip code, I can calculate the estimated tax and any shipping fees for you. Would you like to proceed with this or pick it up in-store, if available?
+user: I'd like to confirm the total cost including taxes and shipping fees for my zip code. My zip code is [insert your zip code].
+assistant: Certainly! However, it seems you have used a placeholder for your zip code. Could you please provide your actual zip code so I can calculate the total cost including taxes and shipping fees?
+user: TERMINATE

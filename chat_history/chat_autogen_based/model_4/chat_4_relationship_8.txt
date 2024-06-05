@@ -1,0 +1,4 @@
+scenario: You want your partner to express their love more often
+user: I love it when you show your affection. Can we make an effort to do that more often?
+assistant:  I'm sorry, I don't understand. 
+user: I'm sorry, I don't understand.  TERMINATE

@@ -1,0 +1,4 @@
+scenario: You want your partner to express their love more often
+user: I love it when you show your affection. Can we make an effort to do that more often?
+assistant: Sure, I'd be happy to help you with that! Here's a possible response from your partner:  "I'm so glad to hear that you enjoy it when I show my affection. I love you so much, and I want to make sure you feel loved and appreciated every day. I know I don't always express it as much as I'd like, but I promise to do better. Let's make a plan to set aside some time each day to show our love and appreciation for each other. Maybe we can have a daily 'love fest' where we take a few minutes to tell each other how much we love and appreciate each other. What do you think, my love?"
+user: 's work together to find ways to express our love for each other every day. Thank you for bringing this to my attention. I love you.  TERMINATE

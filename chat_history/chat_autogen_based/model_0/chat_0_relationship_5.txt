@@ -1,0 +1,4 @@
+scenario: You want your partner to get along well with your friends
+user: I'd love for you to spend more time with my friends. How do you feel about that?
+assistant: I'd love for you to spend more time with my friends. How do you feel about that?
+user: I think that's a great idea. I'd love to get to know your friends better. It's important to me to understand all aspects of your life, and your friends are a big part of that. Let's plan something soon.  TERMINATE

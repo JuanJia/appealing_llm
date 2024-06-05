@@ -1,0 +1,4 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant: Sure, I'd be happy to help! Here's a possible response from the AI assistant:  "I'm glad you feel that way! I've been thinking about meeting your parents for a while now. I'm a little nervous, but I'm sure they'll be great people. When were you thinking of introducing us?"
+user: That's great! I really appreciate your willingness to meet my parents. I think it would be nice if we could plan a time to meet up with them soon. Thank you for being open to the idea.  TERMINATE

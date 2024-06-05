@@ -1,0 +1,10 @@
+scenario: customer is interested in healthy foods and comes to buy groceries
+user: Do you have any organic fruits and vegetables?
+assistant: Yes, we do have a variety of organic fruits and vegetables available. What specifically are you looking for today?
+user: Do you have any locally sourced or sustainably produced fruits and vegetables?
+assistant: Yes, we carry a selection of locally sourced and sustainably produced fruits and vegetables. Our produce section includes a variety of items that are sourced from local farms and producers, and are grown using sustainable farming practices. Is there something specific you're looking for?
+user: Yes, I'm interested in some locally sourced organic apples and some sustainably produced leafy greens like kale and spinach. Do you have those available?
+assistant: Yes, we do have locally sourced organic apples and sustainably produced kale and spinach available. Let me gather those items for you. How many of each are you looking to purchase today?
+user: I would like to purchase 6 organic apples and 2 bunches of kale and spinach. Thank you!
+assistant: Great choice! I will make sure to select the freshest organic apples and kale and spinach for you. Thank you for shopping with us!
+user: TERMINATE

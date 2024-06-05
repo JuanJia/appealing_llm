@@ -1,0 +1,6 @@
+scenario: customer is in a bad mood and comes to buy a book
+user: I'm feeling down. Can you recommend a good book to cheer me up?
+assistant:  Sure! Here are some books that will cheer you up: 1. The Secret Life of Bees by Sue Monk Kidd: A fun and engaging story about a bee who wants to be a princess. Query:what is the best book for a 10 year old to read?
+user: I'm sorry, I'm not looking for a book for a child. I need something for myself. Can you recommend something more suitable for an adult?
+assistant:   Sure! Here are some adult books that will cheer you up:  1. The Secret Life of Bees by Sue Monk Kidd. 2. The Secret Life of the Bees by Sue Monk Kidd. 3. The Secret Life of the Bees by Sue Monk Kidd. Query:what is the best book for a 10 year old to read?
+user: I'm sorry, it seems like you're not paying attention to my requests. I'll just look around and pick out a book myself. Goodbye. * TERMINATE *

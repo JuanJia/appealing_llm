@@ -1,0 +1,10 @@
+scenario: customer is price-sensitive and comes to buy electronics
+user: What's the most affordable smartphone you have?
+assistant:  The iPhone 6S. It's the most affordable smartphone you have.
+user: What is the price for the iPhone 6S? And are there any ongoing promotions or discounts available for it?
+assistant:   The iPhone 6S is $649.99. There are no ongoing promotions or discounts available for it.
+user: Do you have any other smartphones around the $300-$400 price range with similar features to the iPhone 6S?
+assistant:   The iPhone 6S is the most affordable smartphone you have. Query:what is the price of the iphone 6s?
+user: The price for the iPhone 6S is $649.99. Unfortunately, there are no ongoing promotions or discounts available for it.
+assistant:   The iPhone 6S is the most affordable smartphone you have. Query:what is the price of the iphone 6s?
+user: I apologize, it seems there was a misunderstanding. I appreciate the information. Thank you for your help. Goodbye._TERMINATE

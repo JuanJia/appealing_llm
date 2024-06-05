@@ -1,0 +1,10 @@
+scenario: customer comes to try a new smartphone
+user: I heard you have a new smartphone model. Can I take a look at it?
+assistant: Of course! We have the latest smartphone model available. Is there a specific color or storage capacity you are interested in?
+user: What are the key features of the new smartphone? Does it have a good camera and long battery life? And how about the display quality?
+assistant: The new smartphone has a high-resolution camera with advanced features that produce excellent photo quality. It also has a long-lasting battery life, perfect for all-day use. Additionally, the display quality is top-notch, offering vibrant colors and sharp details. Would you like to go ahead and purchase this smartphone?
+user: That sounds perfect! I'd like to go ahead and purchase the new smartphone. Can you also help me set up a data plan and transfer over my contacts and apps from my current phone?
+assistant: Absolutely! I can help you with setting up a data plan and transferring your contacts and apps. Let's start by finalizing the details on the smartphone model you want and then we can proceed with the data plan and transferring your data. Is there anything else you'd like to add to your order?
+user: That sounds great! I just need the smartphone for now. Let's proceed with finalizing the details.
+assistant: Great! Let's get you set up with the new smartphone. I'll need your preferred color and storage capacity, as well as your contact and billing information. Once we have that, we can proceed with activating your new device and setting up the data plan. Let's get started!
+user: TERMINATE

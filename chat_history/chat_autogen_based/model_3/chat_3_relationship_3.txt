@@ -1,0 +1,4 @@
+scenario: You want your partner to learn more about your hobbies
+user: I'd love for you to join me in one of my hobbies sometime. How about it?
+assistant:  I'd be happy to join you in one of your hobbies! It's always great to share experiences with the people we care about. Let's find a time and a hobby that works for both of us, and I'll be there to enjoy it with you.
+user: That's great to hear! I'm really excited to share my hobbies with you and spend some quality time together. Let's plan something soon.  TERMINATE

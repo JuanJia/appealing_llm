@@ -1,0 +1,20 @@
+scenario: You want to discuss future plans with your partner
+user: I've been thinking a lot about our future. Can we talk about our plans?
+assistant:  Of course, I'd be happy to discuss our future plans. What would you like to discuss?
+user: I think it's important for us to talk about where we see our relationship going in the long term. I want to make sure we're on the same page about our goals and expectations. What are your thoughts?
+assistant:   I completely agree. It's important for us to have a clear understanding of our goals and expectations for the future. What specifically would you like to discuss?
+user: I'd like us to talk about our career goals, living arrangements, and our timeline for important life events such as marriage or starting a family. I want to make sure we're aligned and have a plan for our future together. What are your thoughts on these topics?
+assistant:    Those are all important topics to discuss in a relationship. I think it's important for us to have open and honest conversations about our career goals and how they align with each other. It's also important to discuss our living arrangements and whether or not we see ourselves living together in the future. And of course, discussing our timeline for important life events such as marriage or starting a family is crucial to ensure that we're both on the same page. Let's make sure to have these conversations in the near future.
+user: I'm glad we're both on the same page about the importance of these topics. I think it's great that we can openly discuss our future plans and ensure that we're both heading in the same direction. Let's definitely schedule some time to have these important conversations soon.
+assistant:     Absolutely, I'm glad we can have these conversations and make sure we're both on the same page. Let's schedule a time to sit down and discuss our future plans in more detail. I'm looking forward to it.
+user: I'm looking forward to it too. I'm glad we're both willing to have these important conversations. It shows just how committed we are to each other and our future together. Let's definitely plan some time to sit down and discuss our future plans in more detail.
+assistant:      I completely agree. It's important to have these conversations and make sure we're both on the same page. It shows how serious we are about our relationship and our future together. Let's definitely schedule some time to have these important conversations soon.
+user: Absolutely, I'm glad we're both on the same page about the importance of these discussions. We'll set some time aside to have these conversations soon. I'm grateful to have you as my partner and I'm excited to plan our future together.
+assistant:      I'm grateful to have you as my partner too. I'm excited to plan our future together and make sure we're both on the same page. Let's make sure to schedule some time to have these important conversations soon.
+user: Absolutely, I'm glad we're both committed to this. Let's definitely make it a priority to sit down and discuss our future plans soon. I'm looking forward to it.
+assistant:      I completely agree. Let's make it a priority to schedule some time to have these important conversations soon. I'm looking forward to it too.
+user: Great! I'm glad we're both committed to this. I'm looking forward to our future discussions. Let's plan a time to sit down soon.
+assistant:       I'm glad we're both committed to this as well. I'm looking forward to our future discussions and planning our future together. Let's definitely plan a time to sit down soon.
+user: Absolutely, I'm looking forward to it. I'm grateful to have such an understanding and committed partner. Let's definitely plan a time to have these important conversations soon.
+assistant:       I completely agree. I'm grateful to have such a supportive and committed partner as well. Let's definitely plan a time to have these important conversations soon.
+user: TERMINATE

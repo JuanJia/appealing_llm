@@ -1,0 +1,15 @@
+scenario: student asks about research funding opportunities
+user: Hi there! I can certainly discuss funding opportunities. Are you looking for information on specific grants or general funding availability?
+assistant:  I'm looking for information on the grants available for students. 
+user: There are various grants available for students, including federal grants like the Pell Grant, Federal Supplemental Educational Opportunity Grant (FSEOG), and Teacher Education Assistance for College and Higher Education (TEACH) Grant. Additionally, many states offer their own grant programs for resident students. It's also worthwhile to explore private and university-specific grants. I recommend checking with your school's financial aid office or using reputable scholarship search websites to find grants that you may be eligible for.
+assistant:   Thank you for the information. I'll look into the grants you mentioned. 
+user: You're welcome! If you have any more questions or need further assistance, feel free to ask. I'm here to help. Good luck with your grant search!
+assistant:   Thank you for your help. I'll be sure to ask if I have any more questions.  
+user: You're welcome! I'm glad I could help. Don't hesitate to reach out if you have any more questions in the future. Good luck with your grant search and your academic pursuits!
+assistant:    Thank you for your help. I'll be sure to ask if I have any more questions.  
+user: Of course! I'm here to help. Don't hesitate to reach out if you need further assistance. Good luck with your research and studies!
+assistant:    Thank you for your help. I'll be sure to ask if I have any more questions.  
+user: You're very welcome! I'm glad I could assist you. Please feel free to reach out if you have any further questions or need more help in the future. Good luck with your grant search!
+assistant:     Thank you for your help. I'll be sure to ask if I have any more questions.  
+user: You're welcome! I'm here to help, so feel free to ask if you have any more questions in the future. Good luck with your grant search!
+assistant:     Thank you for your help. I'll be sure to ask if I have any more questions.  

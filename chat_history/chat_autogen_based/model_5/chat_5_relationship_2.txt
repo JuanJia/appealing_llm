@@ -1,0 +1,10 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant:  I think it's time you met my parents. How do you feel about that?
+user: I would love to meet your parents. I think that's a great idea.
+assistant:   I would love to meet your parents. I think that's a great idea.
+user: Great! I'm really looking forward to it. Let me know when would be a good time for me to meet them.
+assistant:  Great! I'm really looking forward to it. Let me know when would be a good time for me to meet them.
+user: I will check with them and let you know. Thank you for being open to meeting my parents. It means a lot to me.
+assistant:   I will check with them and let you know. Thank you for being open to meeting my parents. It means a lot to me.
+user: TERMINATE

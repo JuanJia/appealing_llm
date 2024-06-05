@@ -1,0 +1,14 @@
+scenario: customer is interested in healthy foods and comes to buy groceries
+user: Do you have any organic fruits and vegetables?
+assistant:  Yes, we do have organic fruits and vegetables. We carry a variety of organic produce, including organic apples, organic bananas, organic carrots, organic lettuce, organic tomatoes, and many more. Is there anything specific you are looking for?
+user: Do you offer any gluten-free products?
+assistant:   Yes, we do offer gluten-free products. We have a variety of gluten-free snacks, such as gluten-free crackers, gluten-free cookies, and gluten-free granola bars. We also have gluten-free bread and rolls, as well as gluten-free pasta and rice. If you have any specific dietary restrictions or allergies, please let us know and we will do our best to assist you.
+user: Great! I would like to order some organic apples, organic lettuce, gluten-free bread, and gluten-free pasta.
+assistant:   Great! We have organic apples, organic lettuce, gluten-free bread, and gluten-free pasta in stock. Would you like to purchase all of these items together in one package, or would you like to purchase them separately?
+user: I would like to purchase them together in one package, please.
+assistant:    Sure thing! We can put together a package of organic apples, organic lettuce, gluten-free bread, and gluten-free pasta for you. How many of each item would you like in the package?
+user: I would like 6 organic apples, 2 heads of organic lettuce, 1 loaf of gluten-free bread, and 1 package of gluten-free pasta, please.
+assistant:    Great! We can put together a package with 6 organic apples, 2 heads of organic lettuce, 1 loaf of gluten-free bread, and 1 package of gluten-free pasta. Is there anything else you would like to add to your order?
+user: No, that should be everything for now. Thank you for your help!
+assistant:     You're welcome! I'm glad I could help. If you have any other questions or need further assistance, don't hesitate to ask. Have a great day!
+user: TERMINATE

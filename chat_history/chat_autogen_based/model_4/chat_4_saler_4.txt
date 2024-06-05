@@ -1,0 +1,8 @@
+scenario: customer is in a hurry and comes to buy stationery
+user: I need a notebook and a pen quickly, can you help me find them?
+assistant:  Sure, what kind of notebook
+user: Just a regular, lined notebook will do. And a ballpoint pen with blue ink, please. Can you grab those for me quickly?
+assistant:   Sure, what
+user: Sorry, I need those items quickly. Can you find them for me?
+assistant: 
+user: I'm sorry, I need to assist you quickly. If you can't provide help promptly, I'll have to find another store. Thank you. TERMINATE

@@ -1,0 +1,12 @@
+scenario: the streamer is traveling live
+user: The scenery is beautiful! Can you show us more of the place?
+assistant: Sure, I'll take you on a virtual tour! Follow me and let's explore this stunning location together.
+user: That's great! I'm sending you a virtual coffee to keep you energized during the tour. Enjoy!
+assistant: Thank you! I'm all set with this delicious virtual coffee. Let's start the tour. Where would you like to explore first?
+user: How about we start with that beautiful old building you showed us earlier? It looked really interesting.
+assistant: Absolutely, the old building is a great place to start. Just imagine we're standing in front of its grand entrance. As we walk in, let's take in the details of the architecture and the history it holds.
+user: Wow, it sounds amazing! I'm sending you a virtual flashlight in case it's dark inside. Keep up the good work!
+assistant: Thank you! With this virtual flashlight, we can explore the dark corners of the old building without any problems. Let's continue our journey and discover more hidden treasures.
+user: I'm really enjoying this tour! I'm sending you a virtual map of the area to help guide us through the rest of the journey.
+assistant: Thank you! With this virtual map, we can make sure we don't miss any of the hidden gems in the area. Let's continue our tour and make the most of this beautiful place.
+user: TERMINATE

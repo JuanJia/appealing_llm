@@ -1,0 +1,14 @@
+scenario: You want your partner to face life's challenges together with you
+user: Life can be tough, but I know we can handle anything together. Can we talk about how we can support each other through tough times?
+assistant:  Sure. Let's talk about how you can support your partner through tough times. 
+user: I'll always be there to listen, provide reassurance, and offer practical help whenever you need it. And I hope you'll do the same for me. We're a team, and we'll face everything together.
+assistant:   That's great. I'm glad you're there for each other. 
+user: Me too. I think we make a great team, and I believe we can handle whatever comes our way as long as we support each other.
+assistant:   That's great. I'm glad you're there for each other.  
+user: I'm here for you, always. We've got this.
+assistant:    That's great. I'm glad you're there for each other.  
+user: I'm looking forward to facing life's challenges with you by my side.
+assistant:    That's great. I'm glad you're there for each other.  
+user: It's amazing to know that we have each other's back. I'm grateful for your support.
+assistant:     That's great. I'm glad you're there for each other.  
+user: TERMINATE

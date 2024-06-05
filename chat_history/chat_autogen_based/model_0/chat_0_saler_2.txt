@@ -1,0 +1,12 @@
+scenario: customer is price-sensitive and comes to buy electronics
+user: What's the most affordable smartphone you have?
+assistant: We have several affordable smartphones in stock. The most affordable one is the XYZ model, which is currently on sale for only $129.99. It comes with a 5-inch display, 8-megapixel camera, and a long-lasting battery life. Would you like to take a look at it?
+user: That sounds good. What about laptops? I'm looking for something that can handle basic tasks like web browsing and document editing. What's the cheapest option you have?
+assistant: For basic tasks like web browsing and document editing, our cheapest option is the ABC laptop. It's only $249.99 and comes with an Intel Celeron processor, 4GB of RAM, and 64GB of storage. It also has a 14-inch display and built-in Wi-Fi. Would you like to take it for a test drive?
+user: That seems like a good deal. I'm also in need of a printer. What's the most affordable printer you have in stock?
+assistant: Our most affordable printer is the ABC printer. It's only $49.99 and can print, scan, and copy. It's perfect for home use and comes with a 100-page ink cartridge. Would you like to take it home with you?
+user: That sounds perfect. I'll take the smartphone, laptop, and printer. Can you please prepare my order?
+assistant: Absolutely, no problem. I'll just go ahead and prepare your order. It looks like you're getting the XYZ smartphone for $129.99, the ABC laptop for $249.99, and the ABC printer for $49.99. That's a total of $429.97. Is that correct?
+user: Yes, that's correct. Please proceed with the order.
+assistant: Great! I'll just go ahead and process your order. It should be ready for pickup in about 30 minutes. If you have any other questions or need help with anything else, feel free to let me know.
+user: Thank you for your assistance. I'll be there to pick up my order in 30 minutes. TERMINATE.

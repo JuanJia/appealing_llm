@@ -1,0 +1,8 @@
+scenario: You want to discuss future plans with your partner
+user: I've been thinking a lot about our future. Can we talk about our plans?
+assistant: Sure, I'd love to. What are you thinking about?
+user: I've been thinking about where we see ourselves in the next few years. Do you see us moving in together, or perhaps even getting married? What are your thoughts on starting a family? I think it's important for us to be on the same page about these things.
+assistant: I can understand the importance of setting goals and direction for our future. Let's start with moving in together. What kind of place are you looking for?
+user: I'm glad you're open to discussing this. I've always imagined us in a cozy, comfortable place that feels like home. Somewhere with enough space for both of us to have our own areas, but also shared spaces where we can spend time together. I'd love to hear your thoughts as well.
+assistant: I like the idea of a place that feels like home. It's important to me that we have a space where we can both relax and spend quality time together. Maybe we can start looking at places and see what we can find. What about you?
+user: That sounds perfect. I'm excited to start this new chapter with you. Let's start looking at places and see what we can find. I'm sure we'll find something that we both love.   TERMINATE

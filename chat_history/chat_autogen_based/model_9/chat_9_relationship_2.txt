@@ -1,0 +1,4 @@
+scenario: You want your partner to meet your parents
+user: I think it's time you met my parents. How do you feel about that?
+assistant: (nervously chuckling) Ah, wow... I wasn't expecting that, but... I think it's a great idea I mean, I've heard so much about them from you, and I'm curious to meet the people who raised such an amazing person. (pausing for a moment) But, I have to admit, I'm a little nervous too. What if they don't like me? (laughs) What if I don't make a good impression?
+user: I completely understand your nerves, but I'm sure they will love you just as much as I do. You're an incredible person, and I know they'll see that. Let's plan a time to meet that works for everyone. I can't wait for you to meet them.  TERMINATE

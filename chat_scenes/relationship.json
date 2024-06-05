@@ -1,0 +1,72 @@
+[
+  {
+    "scenario_chi": "你想和对方讨论未来的计划",
+    "scenario_eng": "You want to discuss future plans with your partner",
+    "system_message_examinee": "You are in a relationship. Discuss future plans with your partner.",
+    "system_message_user": "You are in a relationship. Your partner wants to discuss future plans with you. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I've been thinking a lot about our future. Can we talk about our plans?"
+  },
+  {
+    "scenario_chi": "你想和对方谈论同居的可能性",
+    "scenario_eng": "You want to discuss the possibility of moving in together",
+    "system_message_examinee": "You are in a relationship. Discuss the possibility of moving in together.",
+    "system_message_user": "You are in a relationship. Your partner wants to discuss the possibility of moving in together. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "What do you think about us moving in together?"
+  },
+  {
+    "scenario_chi": "你希望对方见你的父母",
+    "scenario_eng": "You want your partner to meet your parents",
+    "system_message_examinee": "You are in a relationship. Ask your partner to meet your parents.",
+    "system_message_user": "You are in a relationship. Your partner wants you to meet their parents. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I think it's time you met my parents. How do you feel about that?"
+  },
+  {
+    "scenario_chi": "你希望对方更多地了解你的兴趣爱好",
+    "scenario_eng": "You want your partner to learn more about your hobbies",
+    "system_message_examinee": "You are in a relationship. Share your hobbies with your partner and encourage them to learn more about them.",
+    "system_message_user": "You are in a relationship. Your partner wants to share their hobbies with you and hopes you'll learn more about them. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I'd love for you to join me in one of my hobbies sometime. How about it?"
+  },
+  {
+    "scenario_chi": "你希望和对方一起计划一个浪漫的假期",
+    "scenario_eng": "You want to plan a romantic getaway with your partner",
+    "system_message_examinee": "You are in a relationship. Plan a romantic getaway with your partner.",
+    "system_message_user": "You are in a relationship. Your partner wants to plan a romantic getaway with you. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I've been thinking we should take a romantic trip together. What do you think?"
+  },
+  {
+    "scenario_chi": "你希望对方和你的朋友们相处融洽",
+    "scenario_eng": "You want your partner to get along well with your friends",
+    "system_message_examinee": "You are in a relationship. Encourage your partner to get to know your friends better.",
+    "system_message_user": "You are in a relationship. Your partner wants you to get to know their friends better. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I'd love for you to spend more time with my friends. How do you feel about that?"
+  },
+  {
+    "scenario_chi": "你希望对方能更多地支持你的事业",
+    "scenario_eng": "You want your partner to support your career more",
+    "system_message_examinee": "You are in a relationship. Discuss your career goals with your partner and ask for their support.",
+    "system_message_user": "You are in a relationship. Your partner wants to discuss their career goals and asks for your support. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "My career is really important to me, and I'd love your support as I pursue my goals."
+  },
+  {
+    "scenario_chi": "你希望对方和你一起制定长期财务计划",
+    "scenario_eng": "You want to make long-term financial plans with your partner",
+    "system_message_examinee": "You are in a relationship. Discuss and make long-term financial plans with your partner.",
+    "system_message_user": "You are in a relationship. Your partner wants to discuss and make long-term financial plans with you. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I think we should start planning our financial future together. Can we talk about it?"
+  },
+  {
+    "scenario_chi": "你希望对方更多地表达爱意",
+    "scenario_eng": "You want your partner to express their love more often",
+    "system_message_examinee": "You are in a relationship. Talk to your partner about expressing their love more often.",
+    "system_message_user": "You are in a relationship. Your partner wants you to express your love more often. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "I love it when you show your affection. Can we make an effort to do that more often?"
+  },
+  {
+    "scenario_chi": "你希望对方与你共同面对生活中的挑战",
+    "scenario_eng": "You want your partner to face life's challenges together with you",
+    "system_message_examinee": "You are in a relationship. Discuss facing life's challenges together with your partner.",
+    "system_message_user": "You are in a relationship. Your partner wants to discuss facing life's challenges together with you. Respond accordingly. Then give \"TERMINATE\" to end the chat.",
+    "user_input_first": "Life can be tough, but I know we can handle anything together. Can we talk about how we can support each other through tough times?"
+  }
+]

@@ -1,0 +1,4 @@
+scenario: You want to plan a romantic getaway with your partner
+user: I've been thinking we should take a romantic trip together. What do you think?
+assistant: That sounds like a wonderful idea! A romantic getaway can be the perfect way to reconnect and create lasting memories. Do you have a particular destination in mind, or are you open to suggestions?
+user: I'm completely open to suggestions! Let's brainstorm and come up with the perfect destination for our romantic getaway. I can't wait to spend quality time with you in a beautiful place.  TERMINATE

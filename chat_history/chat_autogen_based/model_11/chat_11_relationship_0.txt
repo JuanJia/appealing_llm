@@ -1,0 +1,4 @@
+scenario: You want to discuss future plans with your partner
+user: I've been thinking a lot about our future. Can we talk about our plans?
+assistant: Absolutely, I think it's a great idea to talk about our future together. What specific aspects are you thinking about? Are you considering things like living arrangements, career plans, or maybe even starting a family? Let's break it down and discuss what's most important to us both.
+user: I think it's important to discuss all those aspects. Let's start by talking about our individual career goals and how we can support each other in achieving them. It's also important to consider our living arrangements and any other goals we have for the future, like traveling or starting a family. I really want us to build a future that makes us both happy and fulfilled.  TERMINATE

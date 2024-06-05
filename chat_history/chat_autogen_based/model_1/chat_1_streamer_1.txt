@@ -1,0 +1,10 @@
+scenario: the streamer is playing a game live
+user: Great gameplay! Can you show us some tips for beginners?
+assistant:  Sure, here are some tips for beginners in Among Us:  1. Learn the map: Each map in Among Us has its own layout and tasks, so it's important to familiarize yourself with the map to complete tasks efficiently. 2. Communicate with your crewmates: Communication is key in Among Us. Use the chat function to coordinate with your crewmates and discuss strategies. 3. Pay attention to tasks: Completing tasks is the main goal of the game, so make sure to pay attention to what tasks are available and prioritize completing them. 4. Watch out for the impostor: The impostor's goal is to kill off all the crewmates, so be aware of your surroundings and keep an eye out for any suspicious behavior. 5. Use your emergency button wisely: If you suspect that the impostor is nearby, use your emergency button to call a meeting and discuss your suspicions with your crewmates. 6. Don't be afraid to vote out the impostor: If you have a good idea of who the impostor is, don't be afraid to vote them out. Remember, the more people who vote, the easier it is to identify the impostor. 7. Practice your skills: Like any game, the more you play Among Us, the better you'll get. Experiment with different strategies and playstyles to find what works best for you.  I hope these tips help you get started on your Among Us journey!
+user: Thanks for the tips! I'll definitely keep them in mind as I play. Keep up the great gameplay! 🎮👍
+assistant:  You're welcome! I'm glad I could help. If you have any other questions or need further assistance, feel free to ask. And don't hesitate to reach out if you want to play Among Us together in the future. Have a great day! 😊
+user: Thanks, I really appreciate it! I'll definitely hit you up if I want to play together. Have a great day too!
+assistant:   You're welcome! I'm always here to help. Don't hesitate to reach out if you need anything. Have a great day! 😊
+user: You too! Take care and have fun.
+assistant:   Thank you! You too, have a great day! 😊
+user: TERMINATE

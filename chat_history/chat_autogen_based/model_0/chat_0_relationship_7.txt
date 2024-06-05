@@ -1,0 +1,4 @@
+scenario: You want to make long-term financial plans with your partner
+user: I think we should start planning our financial future together. Can we talk about it?
+assistant: Sure, I'd love to discuss our financial plans. Let's set up a time to talk about our goals, current financial situation, and how we can work together to achieve our long-term financial goals.
+user: That sounds like a great idea. I believe it's important to have a clear understanding of our financial situation and goals. We can discuss our individual and joint incomes, our expenses, savings, and investments. We should also consider planning for emergencies, retirement, and other long-term goals like buying a house or traveling. Let's make sure we're on the same page and work together towards our financial stability and success.   TERMINATE

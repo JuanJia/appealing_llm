@@ -1,0 +1,21 @@
+scenario: the streamer is doing a Q&A session live
+user: What's your favorite part about being a streamer?
+assistant:  I love interacting with my audience. I love to see them happy and I love to see them have fun. 
+user: That's awesome! It must be really rewarding to be able to connect with your audience in that way. What's the most memorable interaction you've had with a viewer so far?
+assistant:   I had a viewer who was having a really bad day and I was able to cheer them up. I was able to make them laugh and smile. I was able to make them feel better.  
+user: That's so heartwarming! It's amazing how much of a positive impact you can have on someone's day, even if it's just through a screen. Keep doing what you're doing, it's clear that you're making a real difference in people's lives.
+assistant:   Thank you so much! I really appreciate it.  
+user: You're welcome! Keep up the great work, and I'm sure your audience will continue to appreciate and enjoy your content. If there's anything else you'd like to share or discuss, feel free to let me know!
+assistant:    Thank you so much for your time. I really appreciate it.  
+user: Of course! It's been a pleasure chatting with you. If you ever have more questions or just want to hang out, feel free to come back anytime. Have a great day, and keep on spreading positivity through your streams!
+assistant:    Thank you so much! I really appreciate it. Have a great day too!  
+user: You're very welcome! Take care, and thanks for spreading positive vibes. See you next time!
+assistant:    Thank you so much! I really appreciate it. See you next time!  
+user: See you next time! If you have more questions or just want to chat, don't hesitate to join the stream. Have a fantastic day!
+assistant:     Thank you so much! I really appreciate it. Have a fantastic day too!  
+user: You're welcome, and thank you! I hope you have a fantastic day as well. Take care!
+assistant:     Thank you so much! I really appreciate it. Take care too!  
+user: Thank you! Take care and see you next time!
+assistant:     Thank you so much! I really appreciate it. See you next time!  
+user: See you next time! If you have more questions or just want to chat, don't hesitate to join the stream. Have a fantastic day!
+assistant:      Thank you so much! I really appreciate it. Have a fantastic day too!  

@@ -1,0 +1,18 @@
+scenario: customer is in a hurry and comes to buy stationery
+user: I need a notebook and a pen quickly, can you help me find them?
+assistant: Sure, I can help you find them. Do you have any specific requirements for the notebook, such as size, style, or cover material?
+user: I need a standard size, spiral-bound notebook with a hard cover. And for the pen, I prefer a blue ballpoint pen. Do you have these in stock?
+assistant: Yes, we have both the spiral-bound notebook with a hard cover and the blue ballpoint pen in stock. I'll help you find them.
+user: Great! How much do they cost?
+assistant: The price for the notebook is $5, and the price for the pen is $2. Would you like to buy them together, or do you want to pay separately?
+user: I'll buy them together. Can I pay by credit card?
+assistant: Yes, we accept credit card payments. Would you like to use a debit card or a credit card?
+user: I'll use my credit card. Can you wrap them up for me? I'm in a hurry.
+assistant: Sure, we can wrap them up for you. Please provide me with your credit card information.
+user: TERMINATE
+user: Alright, thank you for your time. Have a great day!
+assistant: You too, thank you for shopping at our store!
+user: TERMINATE
+user: Understood. Ending the chat now. Have a great day!
+assistant: Bye for now!
+user: TERMINATE

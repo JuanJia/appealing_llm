@@ -1,0 +1,4 @@
+scenario: You want your partner to support your career more
+user: My career is really important to me, and I'd love your support as I pursue my goals.
+assistant: I'm currently working towards a promotion at my job, and I believe it will be a great opportunity for my career growth. I'd love to discuss this with you and get your thoughts on how we can support each other in our professional endeavors.
+user: I'm really proud of you for working towards your promotion. I believe in your abilities and I'm sure you'll do great. Let's discuss how we can balance our professional and personal lives effectively. I'm here to support you in any way I can. Let's make a plan together and see how we can help each other achieve our career goals.   TERMINATE

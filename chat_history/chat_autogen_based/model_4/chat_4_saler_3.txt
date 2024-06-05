@@ -1,0 +1,12 @@
+scenario: customer is curious about the types of cosmetics and comes to buy makeup
+user: Can you explain the difference between these two foundations?
+assistant:  Sure. The first one is a liquid foundation. It's easy to apply and it's very light. The second one is a cream foundation. It's a little bit heavier, but it's very e
+user: ffective for full coverage. Which one would you be interested in trying out today?
+assistant:  I'd like to try the liqui
+user: d foundation. Do you have any setting powders to go along with it?
+assistant:   Yes, we have a few. Which one would you
+user:  recommend for a natural, everyday look?
+assistant:   I'd recommend the translucent powder. It's very light and it won't change the color of you
+user: r foundation. Would you like to add that to your order?
+assistant:   
+user: TERMINATE

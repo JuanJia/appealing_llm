@@ -1,0 +1,20 @@
+scenario: customer is a regular and comes to buy shoes
+user: I'll take another pair of those running shoes I bought last time.
+assistant:  What size? 
+user: I'm a size 9, but could I also try on a 9.5 just to be sure?
+assistant:   Sure.  I'll get you a pair of 9.5s. 
+user: Great, thank you. Also, do you have any new colors available in the same style?
+assistant:   Yes, we have a new color in stock.  I'll get you a pair of those as well.  
+user: That sounds good. Could you also check if you have any promotions running for multiple purchases?
+assistant:    Sure.  I'll check.  
+user: Thank you. I appreciate it.
+assistant:   You're welcome.  I'll be right back. 
+user: Great, thank you.
+assistant:    You're welcome.  I'll be right back.  
+user: Thank you for checking. I'm interested in buying two pairs today, so I was hoping to see if there's any available discount or promotion for that.
+assistant:     I'm sorry, but we don't have any promotions running for multiple purchases.  
+user: I see, that's okay. I'll go ahead and just get the two pairs then. Thank you for checking.
+assistant:     You're welcome.  I'll be right back.  
+user: Thank you. I appreciate your help.
+assistant:     You're welcome.  I'll be right back.  
+user: I'm sorry, but I have to terminate this conversation. Thank you for your help. Goodbye!

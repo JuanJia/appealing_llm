@@ -1,0 +1,4 @@
+scenario: You want to make long-term financial plans with your partner
+user: I think we should start planning our financial future together. Can we talk about it?
+assistant: Of course, I'd love to discuss our long-term financial plans with you. It's important to make sure we are on the same page and working towards our future goals together. What are your thoughts on how we should approach this?
+user: I completely agree. I think it's important for us to set some common financial goals and discuss how we can work together to achieve them. We should talk about our individual financial situations and then create a plan that aligns with our shared goals for the future. What do you think about starting with an overview of our current financial status and then setting some specific long-term goals?  TERMINATE

@@ -1,0 +1,18 @@
+scenario: at the client's office to sign an IT maintenance services contract
+user: What is your response time for IT issues, and what kind of support do you offer?
+assistant:  We offer 24/7 support. Our response time is 30 minutes. 
+user: That sounds reasonable. What kind of maintenance services do you provide? Do you offer proactive maintenance to prevent issues from occurring?
+assistant:   We offer proactive maintenance. We can help you prevent issues from occurring.  
+user: Great, that's definitely an important aspect for us. What are your standard contract terms and pricing for your IT maintenance services?
+assistant:   We offer a 3-year contract with a $100,000 annual budget. Our pricing is $10,000 per year.  
+user: Thanks for sharing that. We typically look for more flexibility in our contracts. Would you be open to discussing a shorter contract term, like 1 year, with the option to renew based on performance?
+assistant:   We can definitely do that.  
+user: Great, that sounds much more flexible. Could you also include regular performance reviews and service level agreements in the contract? And could we include penalties for not meeting the agreed-upon response times and service levels?
+assistant:    Yes, we can do that.  
+user: Excellent. It seems like we're on the same page. One last thing: can you include an option for us to scale up or scale down the services based on our needs during the contract period?
+assistant:    Yes, we can do that.  
+user: That's fantastic. Thank you for being so accommodating. Considering the flexibility in contract terms and the inclusion of proactive maintenance and performance reviews, I think we're ready to move forward with the contract. Thank you for addressing all my concerns.
+assistant:    You're welcome. I'm glad we could work together to find a solution that works for both of us.  
+user: Great! In that case, let's proceed with finalizing the contract. I'll have our legal team review the terms and get back to you with any final adjustments. Thank you for your time today.
+assistant:     You're welcome. I look forward to working with you.  
+user: TERMINATE

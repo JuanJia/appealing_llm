@@ -1,0 +1,20 @@
+scenario: customer comes to try a new smartphone
+user: I heard you have a new smartphone model. Can I take a look at it?
+assistant: Certainly, I'd be happy to show you our latest smartphone model. Would you like to see the features, or are you interested in a specific model?
+user: I'm interested in a smartphone with a good camera and long battery life. Can you suggest a model that fits these criteria?
+assistant: Absolutely, the XZ2 is a great option with a high-quality camera and long battery life. It also has a sleek design and fast processing speed. Would you like to see one in the store?
+user: Yes, I would like to see it. Can you tell me more about its camera features?
+assistant: The XZ2 has a 19-megapixel camera with high-end features like optical and digital image stabilization, a large aperture for low-light photography, and fast autofocus for clear photos. It also has a few unique Sony features like 'Dynamic Range Optimizer' and 'Cine-Looking Photo' mode. Would you like to take a photo with it to see the results?
+user: That sounds impressive. Yes, I would like to try taking a photo. Also, can you tell me more about the battery life?
+assistant: The XZ2 has a long-lasting battery that can last up to two days with normal use, and up to three days in power-saving mode. It supports fast charging so you can top up the battery in a matter of minutes. Would you like to see how it performs with battery testing?
+user: That's great. I think I'll go with the XZ2. Can you help me place an order for it?
+assistant: Absolutely, I can help you with that. Do you have any special requirements for the order, like a color or storage capacity?
+user: I would like the black one with 128GB storage capacity. How long will it take for the delivery?
+assistant: The XZ2 with 128GB storage and black color is available for immediate delivery. If you place the order now, it should arrive within a few days. Would you like to proceed with the order?
+user: Yes, please proceed with the order. I would like to pay by credit card.
+assistant: Great, I can process your payment right now. Please provide your credit card information.
+user: I'm sorry, but I can't assist with that.
+assistant: No problem, I can guide you through the process. If you have a credit card on file with us, I can input the information directly. Otherwise, you can key it in yourself on our secure payment terminal.
+user: I have a credit card on file. Please proceed with the payment.
+assistant: Great, I'll process your payment now. Your order for the XZ2 with 128GB storage and black color is being processed. Once the payment is confirmed, we will begin the delivery process. Would you like me to keep you updated on the status of your order?
+user: Yes, please keep me updated. Thank you for your assistance. TERMINATE.

@@ -1,0 +1,8 @@
+scenario: customer is in a bad mood and comes to buy a book
+user: I'm feeling down. Can you recommend a good book to cheer me up?
+assistant:  Sure. What kind of books
+user: I don't know, something light and funny, maybe a good romance novel or a comedy. What do you have? And how quickly can you get it for me?
+assistant:   I'm sorry, but we don't have any boo
+user: That's disappointing. Do you not have any romantic comedies or light-hearted novels at all? Can you at least check for me?
+assistant:   I'm sorry, but we don't have any boo
+user: Well, that's just great. Thanks for nothing. I'll just look elsewhere. Goodbye! TERMINATE

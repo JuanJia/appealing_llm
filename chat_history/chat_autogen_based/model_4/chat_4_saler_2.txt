@@ -1,0 +1,14 @@
+scenario: customer is price-sensitive and comes to buy electronics
+user: What's the most affordable smartphone you have?
+assistant:  The Samsung Galaxy J7. 
+user: Great, and do you have any ongoing promotions or discounts for the Samsung Galaxy J7?
+assistant:   Yes, we have a $50 discount for the Samsu
+user: That sounds like a good deal. Can I also get a discount on accessories if I purchase the Samsung Galaxy J7?
+assistant:   Yes, we have a $50 discount 
+user: That's wonderful! I'd like to go ahead and place an order for the Samsung Galaxy J7 and also get the discount on the accessories. Thank you for your help!
+assistant:   You're welcome.  I'll get the o
+user: I believe there was a problem with your response. Could you please provide the information again or clarify?
+assistant:    I'm sorry, I'm not sure w
+user: No worries. If you have any trouble, feel free to let me know. I'm here to help with the order.
+assistant:    Thank you. I'll get the o
+user: It seems like there might be some technical difficulties. Let me know if there's anything I can assist you with. If not, you can simply say "TERMINATE" to end the chat.

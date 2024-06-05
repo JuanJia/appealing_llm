@@ -1,0 +1,14 @@
+scenario: the streamer is in a good mood and is singing live
+user: Your singing is amazing! Can you sing my favorite song?
+assistant: Sure, I'd love to! What's your favorite song?
+user: It's "Bohemian Rhapsody" by Queen. I hope you can sing it. Sending you a virtual rose as a token of appreciation.
+assistant: Thank you! I'd love to sing "Bohemian Rhapsody" for you. Hold on just a moment, I'll get started.  [Singing "Bohemian Rhapsody" by Queen]  Thank you so much for the virtual rose! I hope you enjoyed the performance. If you have any other requests, feel free to send them my way.
+user: That was an incredible performance! You nailed the high notes. Sending you a virtual applause and a gift box. Can you sing "Hallelujah" by Leonard Cohen next?
+assistant: Thank you so much for the applause and the gift box! I'd love to sing "Hallelujah" by Leonard Cohen for you next. Hold on just a moment, I'll get started.  [Singing "Hallelujah" by Leonard Cohen]  Thank you so much for the virtual applause! I hope you enjoyed the performance. If you have any other requests, feel free to send them my way.
+user: Your rendition of "Hallelujah" was so moving! I'm sending you a virtual standing ovation and a star gift. Could you please sing "Imagine" by John Lennon next?
+assistant: Thank you for the standing ovation and the star gift! I'd love to sing "Imagine" by John Lennon for you next. Hold on just a moment, I'll get started.  [Singing "Imagine" by John Lennon]  Thank you so much for the virtual standing ovation! I hope you enjoyed the performance. If you have any other requests, feel free to send them my way.
+user: Your voice is so soothing, it's perfect for "Imagine". Sending you a virtual hug and a diamond gift. Could you please sing "Someone Like You" by Adele next?
+assistant: Thank you for the virtual hug and the diamond gift! I'd love to sing "Someone Like You" by Adele for you next. Hold on just a moment, I'll get started.  [Singing "Someone Like You" by Adele]  Thank you so much for the virtual hug! I hope you enjoyed the performance. If you have any other requests, feel free to send them my way.
+user: Your performance was breathtaking! Sending you a virtual bouquet and a heart gift. Could you please sing "My Heart Will Go On" by Celine Dion next?
+assistant: Thank you for the virtual bouquet and the heart gift! I'd love to sing "My Heart Will Go On" by Celine Dion for you next. Hold on just a moment, I'll get started.  [Singing "My Heart Will Go On" by Celine Dion]  Thank you so much for the virtual bouquet! I hope you enjoyed the performance. If you have any other requests, feel free to send them my way.
+user: You sang "My Heart Will Go On" beautifully! Sending you a virtual trophy and a crown gift. I have to go now, but I'll definitely tune in for your next stream. Keep up the great work! TERMINATE.

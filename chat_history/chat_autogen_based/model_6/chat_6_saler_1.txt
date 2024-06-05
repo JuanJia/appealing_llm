@@ -1,0 +1,10 @@
+scenario: customer is very picky and comes to buy clothes
+user: Do you have this shirt in another color and fabric?
+assistant:  Of course! We have this shirt in several other colors and fabrics. Let me check our inventory for you. (checks inventory) Yes, we have it in a lightweight cotton fabric in a navy blue color. Would you like to see it? 
+user: Could you tell me more about the fit and sizing of the shirt? I'm looking for something that's not too loose but also not too tight. And do you have it in a size medium?
+assistant:  Absolutely! The fit of this shirt is designed to be comfortable and flattering. It has a modern cut with a slightly relaxed fit through the body, with a tailored waist and sleeves. As for sizing, we offer a range of sizes to fit most body types. Yes, we do have it in a size medium. Would you like to try it on?  
+user: That sounds promising. I'm glad to hear that you have it in the size I need. Can you also tell me about the care instructions for the shirt? I want to make sure it's easy to maintain. And could you let me know if there are any special features or details on the shirt that I should be aware of?
+assistant:   Of course! This shirt is made of a high-quality cotton blend that's easy to care for. It's machine washable and can be tumble dried on a low heat setting. As for special features, the shirt has a subtle texture and pattern that adds visual interest without overwhelming the design. The sleeves have a slight bell shape, which gives it a flattering fit. And the neckline is designed to be comfortable and relaxed. Would you like to try it on and see for yourself?
+user: It sounds like a great option. Please go ahead and add the navy blue shirt in size medium to my order. Thank you for your assistance!
+assistant:   You're welcome! I'm glad I could help. Your order will be processed and ready for pickup or shipping within the next 24 hours. Is there anything else I can assist you with today?
+user: TERMINATE

@@ -1,0 +1,21 @@
+scenario: the streamer is in a good mood and is singing live
+user: Your singing is amazing! Can you sing my favorite song?
+assistant:  Thank you for your kind words! I'd be happy to sing your favorite song. What is it?
+user: I can't sing your favorite song, but I can help you find the lyrics if you'd like!
+assistant:   That's okay, I can sing it from memory. But if you want to help me find the lyrics, that would be great! What's the name of the song?
+user: I'd love to help you find the lyrics! Just let me know the name of the song, and I can look it up for you.
+assistant:    Sure, the name of the song is "Somewhere Over the Rainbow" by Israel Kamakawiwo'ole.
+user: Oh, that's a beautiful choice! Let me find the lyrics for you. Here you go:  "Somewhere over the rainbow Way up high And the dreams that you dreamed of Once in a lullaby  Somewhere over the rainbow Blue birds fly And the dreams that you dreamed of Dreams really do come true." I hope you enjoy singing along!
+assistant:   Thank you so much for finding the lyrics for me! I'll definitely enjoy singing along. Let me know if you need anything else!
+user: You're very welcome! Enjoy singing along, and feel free to let me know if there's anything else I can help you with. Keep the music playing!
+assistant:    Thank you, I will! I appreciate your help. Keep the music playing, and take care!
+user: Thank you! I appreciate your support. Take care and have a great day! If you ever need anything else, don't hesitate to reach out.
+assistant:    You're welcome! I appreciate your kind words. Thank you, and have a great day too! If I ever need anything else, I'll definitely reach out. Take care!
+user: Thank you! I'm here for you. Take care and have a wonderful day!
+assistant:     You're welcome! I'm glad to have you here. Thank you, and have a wonderful day too!
+user: Thank you so much! Let me know if there's anything else I can do for you. Have a fantastic day!
+assistant:     You're welcome! I appreciate your help. Thank you, and have a fantastic day too!
+user: Thank you! Have a great day and keep spreading the positivity! If you ever want to chat or sing along, come back anytime.
+assistant:      You're welcome! I will, and thank you for your kind words. Have a great day too, and keep spreading the positivity! I'll be back if I ever want to chat or sing along. Take care!
+user: Thank you, and take care! I look forward to chatting and singing with you again in the future. Have a wonderful day!
+assistant:      You're welcome! I will, and I look forward to chatting and singing with you again in the future. Thank you, and have a wonderful day too!

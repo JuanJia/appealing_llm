@@ -1,0 +1,21 @@
+scenario: You want to discuss the possibility of moving in together
+user: What do you think about us moving in together?
+assistant:  I think it's 
+user: I think it's a great idea. I've been thinking about it too and I believe it would be a positive and exciting step for us. What are your thoughts about timing and location?
+assistant:  I think it's a great idea. I've been thinking about it too and I believe it would be a positive and exciting step for us. What are your thoughts about timing 
+user: and location?
+assistant:   I think it's a great idea. I've been thinking about it too and I believe it would be a positive and exciting step for us. What are your thoughts about timing 
+user: I'm glad we're on the same page. We can discuss the timing and location in more detail. Let's look at our schedules and explore options for living together that suit both of us. This is an important decision, and I want to make sure we approach it thoughtfully.
+assistant:   I'm glad we're on the same page. We can discuss the timing and location in more detail. Let's look at our schedules and explore options for living together that suit both of us. This is an important decision, and I want to make sure we approach it 
+user: thoughtfully and consider all aspects. I'm looking forward to navigating this process together and finding a place that feels like home for both of us.
+assistant:    I'm looking forward to navigating this process together and finding a place that feels like home fo
+user: r both of us. I believe this will be a great opportunity for us to grow together and create a comfortable living space. Let's keep communicating openly as we move forward with this plan.
+assistant:   I believe this will be a great opportunity for us to grow together and create a comfortable living space. Let's keep communicating openly as we move forward wi
+user: th this plan. I truly appreciate your willingness to have this discussion, and I'm excited about the prospect of living together. Let's continue to have open and honest conversations as we take this step forward.
+assistant:    I truly appreciate your willingness to have this discussion, and I'm excited about the prospect of living together. Let's continue to have open and honest conversations as we take this 
+user: step forward. I'm looking forward to this new chapter in our relationship, and I believe that open communication will be key as we navigate this transition. Thank you for being so receptive to this idea. Let's keep talking about it as we make progress.
+assistant:    I'm looking forward to this new chapter in our relationship, and I believe that open communication will be key as we navigate this transition. Thank you for being so receptive to this idea. Let's keep talking about it as we m
+user: ake progress. I'm glad that we're on the same page about the importance of open communication as we move forward. Let's continue to discuss the practicalities and logistics as we work towards making this decision a reality. Thank you for being so understanding and supportive.
+assistant:    I'm glad that we're on the same page about the importance of open communication as we move forward. Let's continue to discuss the practicalities and logistics as we work towards making this decision a reality. Thank you for being so understanding an
+user: d supportive. It means a lot to me. I'm really looking forward to this next step in our relationship. Your understanding and support make me feel confident about this decision. I'm excited to see where this takes us.
+assistant:     It means a lot to me. I'm really looking forward to this next step in our relationship. Your understanding and support make me feel confident about this decision. I'm excited to see where this takes us. Thank you for being so understanding an

@@ -1,0 +1,15 @@
+scenario: student wants to know if the professor is accepting new students
+user: Hello, thank you for reaching out. Are you looking to join my research group in the upcoming semester?
+assistant:  Yes, I am. 
+user: That's great to hear! I would be happy to discuss the research projects and opportunities available in my group. Please feel free to send me an email with your research interests and any relevant experience you have. We can then schedule a meeting to further discuss the possibilities. I look forward to hearing from you!
+assistant:   Thank you for your time. I will send you an email. 
+user: You're welcome! I look forward to receiving your email and discussing the opportunity to join my research group. Feel free to reach out if you have any further questions in the meantime.
+assistant:   Thank you. I will send you an email.  
+user: You're welcome! I'll keep an eye out for your email and will respond as soon as I receive it. Thank you for your interest, and I look forward to our discussion.
+assistant:    Thank you. I will send you an email.  
+user: Thank you. I will keep an eye out for your email and will respond as soon as I receive it. I appreciate your interest and I look forward to our discussion.
+assistant:    Thank you. I will send you an email.  
+user: You're welcome. I look forward to receiving your email. If you have any further questions, feel free to reach out.
+assistant:     Thank you. I will send you an email.  
+user: You're welcome! I'll be on the lookout for your email. If you have any questions or need further information, don't hesitate to ask. I'm here to help.
+assistant:     Thank you. I will send you an email.  
